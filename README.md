@@ -32,7 +32,7 @@ To set up the Sign Language Detection module, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/be-heard.git
+   git clone https://github.com/Sugabiyrarosha1/be-heard.git
    cd be-heard/Sign-Language-Detection
    
 2. Install required packages: Make sure you have Python 3.x installed. Then, run:
