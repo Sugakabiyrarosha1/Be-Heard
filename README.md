@@ -41,7 +41,7 @@ To set up the Be Heard project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/be-heard.git
+   git clone https://github.com/Sugakabiyrarosha1/be-heard.git
    cd be-heard
 Install required packages: Make sure you have Python 3.x installed. Then, run:
 
