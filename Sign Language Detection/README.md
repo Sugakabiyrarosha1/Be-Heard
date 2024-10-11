@@ -33,12 +33,11 @@ To set up the Sign Language Detection module, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Sugabiyrarosha1/be-heard.git
-  
-   
-2. Install required packages: Make sure you have Python 3.x installed. Then, run:
 
- pip install -r requirements.txt
- 
+2. **Install required packages: Make sure you have Python 3.x installed. Then, run:**:
+   ```bash
+   pip install -r requirements.txt
+  
 3. Download the necessary data files: Ensure that the Processed_Alpha_Images and Words NPY files are available in the appropriate directories.
 
 Usage Examples
