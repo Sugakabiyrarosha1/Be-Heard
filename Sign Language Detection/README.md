@@ -4,12 +4,7 @@
 
 ## Overview
 
-The **Sign Language Detection** branch is a key component of the **Be Heard** project, focusing specifically on converting sign language gestures into English text. This module utilizes advanced machine learning algorithms and computer vision techniques to recognize and translate sign language in real-time.
-
-## Data
-
-- **Processed_Alpha_Images**: Contains the processed images in NPY format of the alphabets and numbers.
-- **Words**: Contains the processed images in NPY format of various words.
+The **Sign Language Detection** folder in the **Be Heard** project focuses on converting sign language gestures into English text. It contains all the code and model modules necessary for this task. This module utilizes advanced machine learning algorithms and computer vision techniques to recognize and translate sign language in real-time.
 
 ## Use Case
 
@@ -22,27 +17,35 @@ The **Sign Language Detection** branch is a key component of the **Be Heard** pr
 This folder contains the following key components:
 
 - **BH-V1.py**: The main script that implements the sign language recognition algorithm, processes video input, and outputs the recognized gestures as text.
-- **Processed_Alpha_Images/**: Directory containing processed images of the alphabets and numbers in NPY format.
-- **Words/**: Directory containing processed images of various words in NPY format.
 - **requirements.txt**: A file listing the necessary Python packages required to run the module.
+- **my_model.keras**: Model generated from version_1
 
 ## Installation Instructions
 
 To set up the Sign Language Detection module, follow these steps:
 
+### By Cloning the Repo and Executing
+
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Sugabiyrarosha1/be-heard.git
+   ```
 
-2. **Install required packages: Make sure you have Python 3.x installed. Then, run:**:
+2. **Go to the Sign Language Detection folder**:
+   Navigate to the `Sign Language Detection` folder.
+
+3. **Install required packages**:
+   Make sure you have Python 3.x installed. Then, run:
    ```bash
    pip install -r requirements.txt
-  
-3. Download the necessary data files: Ensure that the Processed_Alpha_Images and Words NPY files are available in the appropriate directories.
+   ```
 
-Usage Examples
-To run the sign language detection module, use the following command:
-  python BH-V1.py
+4. **Go to the BH-V1.py file**:
+   Navigate to the BH-V1.py file.
+
+5. **Go to the Main Section and Run the main code**:
+   Scroll to the last section of the file where the main function is implemented.
+   - This will use the model `my_model.keras` located in `Be-Heard/Sign Language Detection/Code`.
 
 ### Input Requirements:
 
@@ -52,4 +55,3 @@ The module will process the sign language gestures captured through the camera i
 ### Expected Output:
 
 The recognized gestures will be displayed as English text on the screen.
-
