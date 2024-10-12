@@ -41,7 +41,7 @@ To set up the Sign Language Detection module, follow these steps:
    ```
 
 4. **Go to the BH-V1.py file**:
-   Navigate to the BH-V1.py file.
+   Navigate to the BH-V1.ipynb file.
 
 5. **Go to the Main Section and Run the main code**:
    Scroll to the last section of the file where the main function is implemented.
