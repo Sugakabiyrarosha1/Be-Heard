@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Real-Time Prediction and Translation</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            font-family: Arial, sans-serif;
+        }
+        #video {
+            width: 640px;
+            border: 2px solid #ddd;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Real-Time Prediction and Translation</h1>
+    <div>
+        <img id="video" src="{{ url_for('video_feed') }}" alt="Video Stream">
+    </div>
+    <p id="prediction">Prediction will appear as overlay on video.</p>
+
+    <!-- Translation and TTS Controls -->
+    <div>
+        <label for="language">Select Language:</label>
+        <select id="language">
+            <option value="en">English</option>
+            <option value="es">Spanish</option>
+            <option value="fr">French</option>
+            <!-- Add more languages as needed -->
+        </select>
+        <button onclick="translatePrediction()">Translate Prediction</button>
+        <p id="translated_text">Translation will appear here</p>
+
+        <label for="speed">Speech Speed:</label>
+        <input type="range" id="speed" min="0.5" max="2" step="0.1" value="1">
+        <button onclick="playAudio()">Play Audio</button>
+        <audio id="audio_player" controls></audio>
+    </div>
+
+    <script>
+        let currentPrediction = "";
+
+        async function translatePrediction() {
+            const language = document.getElementById('language').value;
+            const response = await fetch('/translate', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ text: currentPrediction, language })
+            });
+            const data = await response.json();
+            document.getElementById('translated_text').innerText = data.translated_text;
+        }
+
+        async function playAudio() {
+            const language = document.getElementById('language').value;
+            const speed = parseFloat(document.getElementById('speed').value);
+            const text = document.getElementById('translated_text').innerText || currentPrediction;
+            const response = await fetch('/text_to_speech', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ text, language, speed })
+            });
+            const data = await response.json();
+            document.getElementById('audio_player').src = data.audio_url;
+        }
+
+        // Poll server for the latest prediction every 2 seconds
+        setInterval(async function() {
+            const response = await fetch('/predict');  // Update endpoint if needed
+            const data = await response.json();
+            currentPrediction = data.action;
+            document.getElementById('prediction').innerText = currentPrediction;
+        }, 2000);
+    </script>
+</body>
+</html>
