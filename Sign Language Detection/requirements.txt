@@ -1,0 +1,7 @@
+numpy
+opencv-python
+mediapipe
+tensorflow
+scikit-learn
+keyboard
+language_tool_python

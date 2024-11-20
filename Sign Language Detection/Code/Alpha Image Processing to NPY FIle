@@ -1,0 +1,79 @@
+import os
+import numpy as np
+import cv2
+import mediapipe as mp
+
+def draw_landmarks(image, results):
+    """
+    Draw landmarks on the image for hands using mediapipe results.
+    """
+    image.flags.writeable = True
+    if results.left_hand_landmarks:
+        mp.solutions.drawing_utils.draw_landmarks(
+            image, results.left_hand_landmarks, mp.solutions.holistic.HAND_CONNECTIONS
+        )
+    if results.right_hand_landmarks:
+        mp.solutions.drawing_utils.draw_landmarks(
+            image, results.right_hand_landmarks, mp.solutions.holistic.HAND_CONNECTIONS
+        )
+
+def image_process(image, model):
+    """
+    Process the image and obtain sign landmarks using mediapipe.
+    """
+    image.flags.writeable = False
+    image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
+    results = model.process(image)
+    image.flags.writeable = True
+    image = cv2.cvtColor(image, cv2.COLOR_RGB2BGR)
+    return results
+
+def keypoint_extraction(results):
+    """
+    Extract keypoints from mediapipe results for hands.
+    """
+    lh = np.array([[res.x, res.y, res.z] for res in results.left_hand_landmarks.landmark]).flatten() if results.left_hand_landmarks else np.zeros(63)
+    rh = np.array([[res.x, res.y, res.z] for res in results.right_hand_landmarks.landmark]).flatten() if results.right_hand_landmarks else np.zeros(63)
+    keypoints = np.concatenate([lh, rh])
+    return keypoints
+
+# Define the path for alphabets and numbers
+alpha_path = r'C:\Harosha\ML Projects\Sign_Language_Detector\Images\Alpha_Images'
+
+# List all directories (which should be for alphabets, numbers, and underscore)
+labels = os.listdir(alpha_path)
+
+# Create a MediaPipe Holistic object for hand tracking and landmark extraction
+with mp.solutions.holistic.Holistic(min_detection_confidence=0.75, min_tracking_confidence=0.75) as holistic:
+    
+    # Iterate over each label (alphabet, number, etc.)
+    for label in labels:
+        label_dir = os.path.join(alpha_path, label)
+        
+        # Check if it's a directory (i.e., a label folder)
+        if os.path.isdir(label_dir):
+            # Iterate over each image in the folder
+            for img_name in os.listdir(label_dir):
+                img_path = os.path.join(label_dir, img_name)
+                
+                # Read the image
+                image = cv2.imread(img_path)
+                
+                if image is None:
+                    print(f"Error loading image {img_path}")
+                    continue
+                
+                # Process the image to extract keypoints
+                results = image_process(image, holistic)
+                
+                # Draw landmarks on the image (optional for visualization)
+                draw_landmarks(image, results)
+                
+                # Extract the keypoints
+                keypoints = keypoint_extraction(results)
+                
+                # Save the keypoints as a .npy file in the same folder
+                keypoint_save_path = os.path.splitext(img_path)[0] + ".npy"
+                np.save(keypoint_save_path, keypoints)
+                
+                print(f"Processed and saved keypoints for {img_path}")
