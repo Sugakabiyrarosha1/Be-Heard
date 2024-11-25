@@ -1,3 +1,4 @@
+import logging
 from flask import Flask, render_template, Response, request, jsonify
 import cv2
 import numpy as np
@@ -7,6 +8,7 @@ from collections import deque
 from googletrans import Translator
 from gtts import gTTS
 from io import BytesIO
+import os
 
 app = Flask(__name__)
 
@@ -30,6 +32,23 @@ sequence = deque(maxlen=30)
 detected_action = ""
 translated_text = ""
 
+# Set up logging
+log_dir = 'logs'
+if not os.path.exists(log_dir):
+    os.makedirs(log_dir)
+
+logging.basicConfig(level=logging.DEBUG)
+
+# Define function to log operations to separate files
+def log_action(action, file_name="action_log.txt"):
+    logger = logging.getLogger(file_name)
+    handler = logging.FileHandler(os.path.join(log_dir, file_name))
+    handler.setLevel(logging.DEBUG)
+    formatter = logging.Formatter('%(asctime)s - %(message)s')
+    handler.setFormatter(formatter)
+    logger.addHandler(handler)
+    logger.info(action)
+
 # Define functions for Mediapipe detection and drawing
 def mediapipe_detection(image, model):
     image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
@@ -40,40 +59,33 @@ def mediapipe_detection(image, model):
     return image, results
 
 def draw_styled_landmarks(image, results):
-    # Draw face landmarks without the grid lines (customized drawing)
     if results.face_landmarks:
         mp_drawing.draw_landmarks(
             image,
             results.face_landmarks,
-            connections=None,  # No grid connections for the face
-            landmark_drawing_spec=None  # No landmarks drawn on the face
+            connections=None,
+            landmark_drawing_spec=None
         )
-
-    # Draw pose connections
     if results.pose_landmarks:
         mp_drawing.draw_landmarks(
             image,
             results.pose_landmarks,
             mp_holistic.POSE_CONNECTIONS,
-            landmark_drawing_spec=mp_drawing.DrawingSpec(color=(0, 0, 255), thickness=2, circle_radius=2)  # Pose points
+            landmark_drawing_spec=mp_drawing.DrawingSpec(color=(0, 0, 255), thickness=2, circle_radius=2)
         )
-
-    # Draw left-hand connections
     if results.left_hand_landmarks:
         mp_drawing.draw_landmarks(
             image,
             results.left_hand_landmarks,
             mp_holistic.HAND_CONNECTIONS,
-            landmark_drawing_spec=mp_drawing.DrawingSpec(color=(0, 255, 255), thickness=2, circle_radius=2)  # Left hand
+            landmark_drawing_spec=mp_drawing.DrawingSpec(color=(0, 255, 255), thickness=2, circle_radius=2)
         )
-
-    # Draw right-hand connections
     if results.right_hand_landmarks:
         mp_drawing.draw_landmarks(
             image,
             results.right_hand_landmarks,
             mp_holistic.HAND_CONNECTIONS,
-            landmark_drawing_spec=mp_drawing.DrawingSpec(color=(255, 0, 255), thickness=2, circle_radius=2)  # Right hand
+            landmark_drawing_spec=mp_drawing.DrawingSpec(color=(255, 0, 255), thickness=2, circle_radius=2)
         )
 
 def extract_keypoints(results):
@@ -120,33 +132,41 @@ def gen_frames():
 
 @app.route('/')
 def index():
+    log_action("User accessed the homepage", "access_log.txt")
     return render_template('index.html')
 
 @app.route('/video_feed')
 def video_feed():
+    log_action("User started the video feed", "video_feed_log.txt")
     return Response(gen_frames(), mimetype='multipart/x-mixed-replace; boundary=frame')
 
 @app.route('/translate', methods=['POST'])
 def translate():
     global detected_action, translated_text
     target_language = request.form['language']
+
+    # Log translation request
+    log_action(f"User requested translation of '{detected_action}' to {target_language}", "translation_log.txt")
     
     # Default message if no action detected
     if not detected_action:
         detected_action = "No action detected"
     
-    # If target language is English, skip translation
     if target_language == 'en':
         translated_text = detected_action
     else:
         translated_text = translator.translate(detected_action, dest=target_language).text
 
+    log_action(f"Translation result: {translated_text}", "translation_result_log.txt")
     return jsonify({'translated_text': translated_text})
 
 @app.route('/play_audio', methods=['POST'])
 def play_audio():
     global translated_text
     target_language = request.form['language']
+
+    # Log audio play request
+    log_action(f"User requested audio play for text: '{translated_text}' in {target_language}", "audio_play_log.txt")
 
     # Translate if text is not yet translated to target language
     if not translated_text or target_language != 'en':
