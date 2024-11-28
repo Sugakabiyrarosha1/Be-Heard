@@ -1,0 +1,7 @@
+Flask==2.3.2
+numpy==1.23.5
+opencv-python==4.8.1.78
+mediapipe==0.10.2
+tensorflow==2.13.0
+googletrans==4.0.0rc1
+gTTS==2.3.2
