@@ -1,0 +1,53 @@
+2024-11-21 00:43:23,592 - User requested audio play for text: 'A' in de
+2024-11-21 00:43:24,628 - User requested audio play for text: 'A' in de
+2024-11-21 00:43:24,628 - User requested audio play for text: 'A' in de
+2024-11-21 00:43:24,628 - User requested audio play for text: 'A' in de
+2024-11-21 00:43:24,628 - User requested audio play for text: 'A' in de
+2024-11-21 00:43:24,628 - User requested audio play for text: 'A' in de
+2024-11-21 00:43:24,628 - User requested audio play for text: 'A' in de
+2024-11-21 00:43:46,343 - User requested audio play for text: 'Keine Aktion erkannt' in de
+2024-11-21 00:44:02,014 - User requested audio play for text: 'Keine Aktion erkannt' in de
+2024-11-21 00:44:02,014 - User requested audio play for text: 'Keine Aktion erkannt' in de
+2024-11-21 00:44:07,104 - User requested audio play for text: 'No hay acción detectada' in es
+2024-11-21 00:44:07,104 - User requested audio play for text: 'No hay acción detectada' in es
+2024-11-21 00:44:07,104 - User requested audio play for text: 'No hay acción detectada' in es
+2024-11-21 00:44:07,111 - User requested audio play for text: 'No hay acción detectada' in es
+2024-11-21 00:44:07,111 - User requested audio play for text: 'No hay acción detectada' in es
+2024-11-21 00:44:07,111 - User requested audio play for text: 'No hay acción detectada' in es
+2024-11-21 00:44:07,111 - User requested audio play for text: 'No hay acción detectada' in es
+2024-11-21 01:08:46,009 - User requested audio play for text: 'Please' in en
+2024-11-21 01:08:53,481 - User requested audio play for text: 'S'il te plaît' in fr
+2024-11-21 01:08:53,481 - User requested audio play for text: 'S'il te plaît' in fr
+2024-11-21 01:08:57,872 - User requested audio play for text: 'Bitte' in de
+2024-11-21 01:08:57,872 - User requested audio play for text: 'Bitte' in de
+2024-11-21 01:08:57,872 - User requested audio play for text: 'Bitte' in de
+2024-11-21 01:08:59,205 - User requested audio play for text: 'Bitte' in de
+2024-11-21 01:08:59,205 - User requested audio play for text: 'Bitte' in de
+2024-11-21 01:08:59,205 - User requested audio play for text: 'Bitte' in de
+2024-11-21 01:08:59,205 - User requested audio play for text: 'Bitte' in de
+2024-11-21 15:02:53,583 - User requested audio play for text: 'ILoveYou' in en
+2024-11-21 15:02:59,785 - User requested audio play for text: 'Te amo' in es
+2024-11-21 15:02:59,785 - User requested audio play for text: 'Te amo' in es
+2024-11-21 15:03:06,063 - User requested audio play for text: 'Bonjour' in fr
+2024-11-21 15:03:06,063 - User requested audio play for text: 'Bonjour' in fr
+2024-11-21 15:03:06,063 - User requested audio play for text: 'Bonjour' in fr
+2024-11-21 19:36:27,784 - User requested audio play for text: 'E' in en
+2024-11-21 19:36:31,668 - User requested audio play for text: 'E' in en
+2024-11-21 19:36:31,668 - User requested audio play for text: 'E' in en
+2024-11-21 19:36:35,087 - User requested audio play for text: 'E' in en
+2024-11-21 19:36:35,087 - User requested audio play for text: 'E' in en
+2024-11-21 19:36:35,087 - User requested audio play for text: 'E' in en
+2024-11-27 14:21:43,541 - User requested audio play for text: 'S' in en
+2024-12-05 11:29:17,186 - User requested audio play for text: 'No' in en
+2024-12-05 11:38:59,491 - User requested audio play for text: 'Hola' in es
+2024-12-05 11:39:06,657 - User requested audio play for text: 'M' in fr
+2024-12-05 11:39:06,657 - User requested audio play for text: 'M' in fr
+2024-12-05 11:46:20,197 - User requested audio play for text: 'M' in pl
+2024-12-05 11:46:54,121 - User requested audio play for text: 'T' in he
+2024-12-05 11:46:54,121 - User requested audio play for text: 'T' in he
+2024-12-05 11:46:54,121 - User requested audio play for text: 'T' in he
+2024-12-05 11:46:54,121 - User requested audio play for text: 'T' in he
+2024-12-05 11:46:54,121 - User requested audio play for text: 'T' in he
+2024-12-05 11:46:54,121 - User requested audio play for text: 'T' in he
+2024-12-05 11:46:54,121 - User requested audio play for text: 'T' in he
+2024-12-05 11:46:54,121 - User requested audio play for text: 'T' in he
