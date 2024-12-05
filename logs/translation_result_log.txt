@@ -1,0 +1,1773 @@
+2024-11-21 00:43:15,023 - Translation result: A
+2024-11-21 00:43:23,577 - Translation result: A
+2024-11-21 00:43:23,577 - Translation result: A
+2024-11-21 00:43:24,599 - Translation result: A
+2024-11-21 00:43:24,599 - Translation result: A
+2024-11-21 00:43:24,600 - Translation result: A
+2024-11-21 00:43:24,599 - Translation result: A
+2024-11-21 00:43:24,600 - Translation result: A
+2024-11-21 00:43:24,599 - Translation result: A
+2024-11-21 00:43:24,600 - Translation result: A
+2024-11-21 00:43:46,324 - Translation result: Keine Aktion erkannt
+2024-11-21 00:44:01,999 - Translation result: Keine Aktion erkannt
+2024-11-21 00:44:01,999 - Translation result: Keine Aktion erkannt
+2024-11-21 00:44:07,085 - Translation result: No hay acción detectada
+2024-11-21 00:44:07,085 - Translation result: No hay acción detectada
+2024-11-21 00:44:07,085 - Translation result: No hay acción detectada
+2024-11-21 00:44:07,085 - Translation result: No hay acción detectada
+2024-11-21 00:44:07,085 - Translation result: No hay acción detectada
+2024-11-21 00:44:07,085 - Translation result: No hay acción detectada
+2024-11-21 00:44:07,085 - Translation result: No hay acción detectada
+2024-11-21 00:44:07,085 - Translation result: No hay acción detectada
+2024-11-21 00:44:12,817 - Translation result: No hay acción detectada
+2024-11-21 00:44:12,817 - Translation result: No hay acción detectada
+2024-11-21 00:44:12,817 - Translation result: No hay acción detectada
+2024-11-21 00:44:12,817 - Translation result: No hay acción detectada
+2024-11-21 00:44:12,817 - Translation result: No hay acción detectada
+2024-11-21 00:44:31,908 - Translation result: No action detected
+2024-11-21 00:44:31,911 - Translation result: No action detected
+2024-11-21 00:44:31,911 - Translation result: No action detected
+2024-11-21 00:44:31,911 - Translation result: No action detected
+2024-11-21 00:44:31,911 - Translation result: No action detected
+2024-11-21 00:44:31,911 - Translation result: No action detected
+2024-11-21 00:44:31,911 - Translation result: No action detected
+2024-11-21 00:44:32,149 - Translation result: No hay acción detectada
+2024-11-21 00:44:32,149 - Translation result: No hay acción detectada
+2024-11-21 00:44:32,149 - Translation result: No hay acción detectada
+2024-11-21 00:44:32,149 - Translation result: No hay acción detectada
+2024-11-21 01:08:44,443 - Translation result: Please
+2024-11-21 01:08:45,999 - Translation result: Please
+2024-11-21 01:08:45,999 - Translation result: Please
+2024-11-21 01:08:53,469 - Translation result: S'il te plaît
+2024-11-21 01:08:53,469 - Translation result: S'il te plaît
+2024-11-21 01:08:53,469 - Translation result: S'il te plaît
+2024-11-21 01:08:57,856 - Translation result: Bitte
+2024-11-21 01:08:57,856 - Translation result: Bitte
+2024-11-21 01:08:57,856 - Translation result: Bitte
+2024-11-21 01:08:57,856 - Translation result: Bitte
+2024-11-21 01:08:59,179 - Translation result: Bitte
+2024-11-21 01:08:59,179 - Translation result: Bitte
+2024-11-21 01:08:59,179 - Translation result: Bitte
+2024-11-21 01:08:59,179 - Translation result: Bitte
+2024-11-21 01:08:59,179 - Translation result: Bitte
+2024-11-21 15:02:51,854 - Translation result: ILoveYou
+2024-11-21 15:02:53,572 - Translation result: ILoveYou
+2024-11-21 15:02:53,572 - Translation result: ILoveYou
+2024-11-21 15:02:59,774 - Translation result: Te amo
+2024-11-21 15:02:59,774 - Translation result: Te amo
+2024-11-21 15:02:59,774 - Translation result: Te amo
+2024-11-21 15:03:06,054 - Translation result: Bonjour
+2024-11-21 15:03:06,054 - Translation result: Bonjour
+2024-11-21 15:03:06,054 - Translation result: Bonjour
+2024-11-21 15:03:06,054 - Translation result: Bonjour
+2024-11-21 19:36:24,000 - Translation result: E
+2024-11-21 19:36:27,774 - Translation result: E
+2024-11-21 19:36:27,774 - Translation result: E
+2024-11-21 19:36:31,660 - Translation result: E
+2024-11-21 19:36:31,660 - Translation result: E
+2024-11-21 19:36:31,660 - Translation result: E
+2024-11-21 19:36:35,075 - Translation result: E
+2024-11-21 19:36:35,075 - Translation result: E
+2024-11-21 19:36:35,075 - Translation result: E
+2024-11-21 19:36:35,075 - Translation result: E
+2024-11-21 20:05:02,533 - Translation result: I
+2024-11-21 20:05:06,151 - Translation result: I
+2024-11-21 20:05:06,151 - Translation result: I
+2024-11-21 20:05:08,118 - Translation result: Gracias
+2024-11-21 20:05:08,118 - Translation result: Gracias
+2024-11-21 20:05:08,118 - Translation result: Gracias
+2024-11-21 20:05:09,305 - Translation result: Gracias
+2024-11-21 20:05:09,305 - Translation result: Gracias
+2024-11-21 20:05:09,305 - Translation result: Gracias
+2024-11-21 20:05:09,305 - Translation result: Gracias
+2024-11-21 20:05:11,384 - Translation result: Lo siento
+2024-11-21 20:05:11,384 - Translation result: Lo siento
+2024-11-21 20:05:11,384 - Translation result: Lo siento
+2024-11-21 20:05:11,384 - Translation result: Lo siento
+2024-11-21 20:05:11,384 - Translation result: Lo siento
+2024-11-21 20:05:12,347 - Translation result: Lo siento
+2024-11-21 20:05:12,347 - Translation result: Lo siento
+2024-11-21 20:05:12,347 - Translation result: Lo siento
+2024-11-21 20:05:12,347 - Translation result: Lo siento
+2024-11-21 20:05:12,347 - Translation result: Lo siento
+2024-11-21 20:05:12,347 - Translation result: Lo siento
+2024-11-21 20:05:13,158 - Translation result: Lo siento
+2024-11-21 20:05:13,158 - Translation result: Lo siento
+2024-11-21 20:05:13,158 - Translation result: Lo siento
+2024-11-21 20:05:13,158 - Translation result: Lo siento
+2024-11-21 20:05:13,158 - Translation result: Lo siento
+2024-11-21 20:05:13,158 - Translation result: Lo siento
+2024-11-21 20:05:13,158 - Translation result: Lo siento
+2024-11-21 20:05:15,005 - Translation result: Lo siento
+2024-11-21 20:05:15,005 - Translation result: Lo siento
+2024-11-21 20:05:15,005 - Translation result: Lo siento
+2024-11-21 20:05:15,005 - Translation result: Lo siento
+2024-11-21 20:05:15,005 - Translation result: Lo siento
+2024-11-21 20:05:15,005 - Translation result: Lo siento
+2024-11-21 20:05:15,005 - Translation result: Lo siento
+2024-11-21 20:05:15,005 - Translation result: Lo siento
+2024-11-21 20:05:15,510 - Translation result: Lo siento
+2024-11-21 20:05:15,510 - Translation result: Lo siento
+2024-11-21 20:05:15,510 - Translation result: Lo siento
+2024-11-21 20:05:15,510 - Translation result: Lo siento
+2024-11-21 20:05:15,510 - Translation result: Lo siento
+2024-11-21 20:05:15,510 - Translation result: Lo siento
+2024-11-21 20:05:15,510 - Translation result: Lo siento
+2024-11-21 20:05:15,510 - Translation result: Lo siento
+2024-11-21 20:05:15,510 - Translation result: Lo siento
+2024-11-21 20:05:16,307 - Translation result: Lo siento
+2024-11-21 20:05:16,307 - Translation result: Lo siento
+2024-11-21 20:05:16,307 - Translation result: Lo siento
+2024-11-21 20:05:16,307 - Translation result: Lo siento
+2024-11-21 20:05:16,307 - Translation result: Lo siento
+2024-11-21 20:05:16,307 - Translation result: Lo siento
+2024-11-21 20:05:16,307 - Translation result: Lo siento
+2024-11-21 20:05:16,307 - Translation result: Lo siento
+2024-11-21 20:05:16,307 - Translation result: Lo siento
+2024-11-21 20:05:16,307 - Translation result: Lo siento
+2024-11-21 20:05:20,545 - Translation result: Lo siento
+2024-11-21 20:05:20,545 - Translation result: Lo siento
+2024-11-21 20:05:20,545 - Translation result: Lo siento
+2024-11-21 20:05:20,545 - Translation result: Lo siento
+2024-11-21 20:05:20,545 - Translation result: Lo siento
+2024-11-21 20:05:20,545 - Translation result: Lo siento
+2024-11-21 20:05:20,545 - Translation result: Lo siento
+2024-11-21 20:05:20,545 - Translation result: Lo siento
+2024-11-21 20:05:20,545 - Translation result: Lo siento
+2024-11-21 20:05:20,545 - Translation result: Lo siento
+2024-11-21 20:05:20,545 - Translation result: Lo siento
+2024-11-21 20:05:21,390 - Translation result: Lo siento
+2024-11-21 20:05:21,390 - Translation result: Lo siento
+2024-11-21 20:05:21,390 - Translation result: Lo siento
+2024-11-21 20:05:21,390 - Translation result: Lo siento
+2024-11-21 20:05:21,390 - Translation result: Lo siento
+2024-11-21 20:05:21,390 - Translation result: Lo siento
+2024-11-21 20:05:21,390 - Translation result: Lo siento
+2024-11-21 20:05:21,390 - Translation result: Lo siento
+2024-11-21 20:05:21,390 - Translation result: Lo siento
+2024-11-21 20:05:21,390 - Translation result: Lo siento
+2024-11-21 20:05:21,390 - Translation result: Lo siento
+2024-11-21 20:05:21,390 - Translation result: Lo siento
+2024-11-21 20:05:27,336 - Translation result: mi
+2024-11-21 20:05:27,336 - Translation result: mi
+2024-11-21 20:05:27,336 - Translation result: mi
+2024-11-21 20:05:27,336 - Translation result: mi
+2024-11-21 20:05:27,336 - Translation result: mi
+2024-11-21 20:05:27,336 - Translation result: mi
+2024-11-21 20:05:27,336 - Translation result: mi
+2024-11-21 20:05:27,336 - Translation result: mi
+2024-11-21 20:05:27,336 - Translation result: mi
+2024-11-21 20:05:27,336 - Translation result: mi
+2024-11-21 20:05:27,336 - Translation result: mi
+2024-11-21 20:05:27,336 - Translation result: mi
+2024-11-21 20:05:27,336 - Translation result: mi
+2024-11-21 20:05:38,762 - Translation result: METRO
+2024-11-21 20:05:38,762 - Translation result: METRO
+2024-11-21 20:05:38,762 - Translation result: METRO
+2024-11-21 20:05:38,762 - Translation result: METRO
+2024-11-21 20:05:38,762 - Translation result: METRO
+2024-11-21 20:05:38,762 - Translation result: METRO
+2024-11-21 20:05:38,762 - Translation result: METRO
+2024-11-21 20:05:38,762 - Translation result: METRO
+2024-11-21 20:05:38,762 - Translation result: METRO
+2024-11-21 20:05:38,762 - Translation result: METRO
+2024-11-21 20:05:38,762 - Translation result: METRO
+2024-11-21 20:05:38,762 - Translation result: METRO
+2024-11-21 20:05:38,762 - Translation result: METRO
+2024-11-21 20:05:38,762 - Translation result: METRO
+2024-11-21 20:05:39,638 - Translation result: Por favor
+2024-11-21 20:05:39,638 - Translation result: Por favor
+2024-11-21 20:05:39,638 - Translation result: Por favor
+2024-11-21 20:05:39,638 - Translation result: Por favor
+2024-11-21 20:05:39,638 - Translation result: Por favor
+2024-11-21 20:05:39,638 - Translation result: Por favor
+2024-11-21 20:05:39,638 - Translation result: Por favor
+2024-11-21 20:05:39,638 - Translation result: Por favor
+2024-11-21 20:05:39,638 - Translation result: Por favor
+2024-11-21 20:05:39,638 - Translation result: Por favor
+2024-11-21 20:05:39,638 - Translation result: Por favor
+2024-11-21 20:05:39,638 - Translation result: Por favor
+2024-11-21 20:05:39,638 - Translation result: Por favor
+2024-11-21 20:05:39,638 - Translation result: Por favor
+2024-11-21 20:05:39,638 - Translation result: Por favor
+2024-11-21 20:05:39,822 - Translation result: Por favor
+2024-11-21 20:05:39,822 - Translation result: Por favor
+2024-11-21 20:05:39,822 - Translation result: Por favor
+2024-11-21 20:05:39,822 - Translation result: Por favor
+2024-11-21 20:05:39,822 - Translation result: Por favor
+2024-11-21 20:05:39,822 - Translation result: Por favor
+2024-11-21 20:05:39,822 - Translation result: Por favor
+2024-11-21 20:05:39,822 - Translation result: Por favor
+2024-11-21 20:05:39,822 - Translation result: Por favor
+2024-11-21 20:05:39,822 - Translation result: Por favor
+2024-11-21 20:05:39,822 - Translation result: Por favor
+2024-11-21 20:05:39,822 - Translation result: Por favor
+2024-11-21 20:05:39,822 - Translation result: Por favor
+2024-11-21 20:05:39,822 - Translation result: Por favor
+2024-11-21 20:05:39,822 - Translation result: Por favor
+2024-11-21 20:05:39,822 - Translation result: Por favor
+2024-11-21 20:05:40,226 - Translation result: Por favor
+2024-11-21 20:05:40,226 - Translation result: Por favor
+2024-11-21 20:05:40,226 - Translation result: Por favor
+2024-11-21 20:05:40,226 - Translation result: Por favor
+2024-11-21 20:05:40,226 - Translation result: Por favor
+2024-11-21 20:05:40,226 - Translation result: Por favor
+2024-11-21 20:05:40,226 - Translation result: Por favor
+2024-11-21 20:05:40,226 - Translation result: Por favor
+2024-11-21 20:05:40,226 - Translation result: Por favor
+2024-11-21 20:05:40,226 - Translation result: Por favor
+2024-11-21 20:05:40,226 - Translation result: Por favor
+2024-11-21 20:05:40,226 - Translation result: Por favor
+2024-11-21 20:05:40,226 - Translation result: Por favor
+2024-11-21 20:05:40,226 - Translation result: Por favor
+2024-11-21 20:05:40,226 - Translation result: Por favor
+2024-11-21 20:05:40,226 - Translation result: Por favor
+2024-11-21 20:05:40,226 - Translation result: Por favor
+2024-11-21 20:05:40,758 - Translation result: Por favor
+2024-11-21 20:05:40,758 - Translation result: Por favor
+2024-11-21 20:05:40,758 - Translation result: Por favor
+2024-11-21 20:05:40,758 - Translation result: Por favor
+2024-11-21 20:05:40,758 - Translation result: Por favor
+2024-11-21 20:05:40,758 - Translation result: Por favor
+2024-11-21 20:05:40,758 - Translation result: Por favor
+2024-11-21 20:05:40,758 - Translation result: Por favor
+2024-11-21 20:05:40,758 - Translation result: Por favor
+2024-11-21 20:05:40,758 - Translation result: Por favor
+2024-11-21 20:05:40,758 - Translation result: Por favor
+2024-11-21 20:05:40,758 - Translation result: Por favor
+2024-11-21 20:05:40,758 - Translation result: Por favor
+2024-11-21 20:05:40,758 - Translation result: Por favor
+2024-11-21 20:05:40,758 - Translation result: Por favor
+2024-11-21 20:05:40,758 - Translation result: Por favor
+2024-11-21 20:05:40,758 - Translation result: Por favor
+2024-11-21 20:05:40,758 - Translation result: Por favor
+2024-11-21 20:05:41,302 - Translation result: Por favor
+2024-11-21 20:05:41,302 - Translation result: Por favor
+2024-11-21 20:05:41,302 - Translation result: Por favor
+2024-11-21 20:05:41,302 - Translation result: Por favor
+2024-11-21 20:05:41,302 - Translation result: Por favor
+2024-11-21 20:05:41,302 - Translation result: Por favor
+2024-11-21 20:05:41,302 - Translation result: Por favor
+2024-11-21 20:05:41,302 - Translation result: Por favor
+2024-11-21 20:05:41,302 - Translation result: Por favor
+2024-11-21 20:05:41,302 - Translation result: Por favor
+2024-11-21 20:05:41,302 - Translation result: Por favor
+2024-11-21 20:05:41,302 - Translation result: Por favor
+2024-11-21 20:05:41,302 - Translation result: Por favor
+2024-11-21 20:05:41,302 - Translation result: Por favor
+2024-11-21 20:05:41,302 - Translation result: Por favor
+2024-11-21 20:05:41,302 - Translation result: Por favor
+2024-11-21 20:05:41,302 - Translation result: Por favor
+2024-11-21 20:05:41,302 - Translation result: Por favor
+2024-11-21 20:05:41,302 - Translation result: Por favor
+2024-11-21 20:05:42,295 - Translation result: Por favor
+2024-11-21 20:05:42,295 - Translation result: Por favor
+2024-11-21 20:05:42,295 - Translation result: Por favor
+2024-11-21 20:05:42,297 - Translation result: Por favor
+2024-11-21 20:05:42,295 - Translation result: Por favor
+2024-11-21 20:05:42,297 - Translation result: Por favor
+2024-11-21 20:05:42,295 - Translation result: Por favor
+2024-11-21 20:05:42,295 - Translation result: Por favor
+2024-11-21 20:05:42,295 - Translation result: Por favor
+2024-11-21 20:05:42,297 - Translation result: Por favor
+2024-11-21 20:05:42,295 - Translation result: Por favor
+2024-11-21 20:05:42,297 - Translation result: Por favor
+2024-11-21 20:05:42,295 - Translation result: Por favor
+2024-11-21 20:05:42,295 - Translation result: Por favor
+2024-11-21 20:05:42,297 - Translation result: Por favor
+2024-11-21 20:05:42,295 - Translation result: Por favor
+2024-11-21 20:05:42,297 - Translation result: Por favor
+2024-11-21 20:05:42,295 - Translation result: Por favor
+2024-11-21 20:05:42,295 - Translation result: Por favor
+2024-11-21 20:05:42,297 - Translation result: Por favor
+2024-11-21 20:05:42,297 - Translation result: Por favor
+2024-11-21 20:05:42,295 - Translation result: Por favor
+2024-11-21 20:05:42,295 - Translation result: Por favor
+2024-11-21 20:05:42,295 - Translation result: Por favor
+2024-11-21 20:05:42,297 - Translation result: Por favor
+2024-11-21 20:05:42,295 - Translation result: Por favor
+2024-11-21 20:05:42,297 - Translation result: Por favor
+2024-11-21 20:05:42,295 - Translation result: Por favor
+2024-11-21 20:05:42,297 - Translation result: Por favor
+2024-11-21 20:05:42,297 - Translation result: Por favor
+2024-11-21 20:05:42,295 - Translation result: Por favor
+2024-11-21 20:05:42,297 - Translation result: Por favor
+2024-11-21 20:05:42,295 - Translation result: Por favor
+2024-11-21 20:05:42,297 - Translation result: Por favor
+2024-11-21 20:05:42,295 - Translation result: Por favor
+2024-11-21 20:05:42,297 - Translation result: Por favor
+2024-11-21 20:05:42,297 - Translation result: Por favor
+2024-11-21 20:05:42,297 - Translation result: Por favor
+2024-11-21 20:05:42,297 - Translation result: Por favor
+2024-11-21 20:05:42,297 - Translation result: Por favor
+2024-11-21 20:05:42,297 - Translation result: Por favor
+2024-11-21 20:05:42,297 - Translation result: Por favor
+2024-11-21 20:05:42,595 - Translation result: Por favor
+2024-11-21 20:05:42,595 - Translation result: Por favor
+2024-11-21 20:05:42,595 - Translation result: Por favor
+2024-11-21 20:05:42,595 - Translation result: Por favor
+2024-11-21 20:05:42,595 - Translation result: Por favor
+2024-11-21 20:05:42,595 - Translation result: Por favor
+2024-11-21 20:05:42,595 - Translation result: Por favor
+2024-11-21 20:05:42,595 - Translation result: Por favor
+2024-11-21 20:05:42,595 - Translation result: Por favor
+2024-11-21 20:05:42,595 - Translation result: Por favor
+2024-11-21 20:05:42,595 - Translation result: Por favor
+2024-11-21 20:05:42,595 - Translation result: Por favor
+2024-11-21 20:05:42,595 - Translation result: Por favor
+2024-11-21 20:05:42,595 - Translation result: Por favor
+2024-11-21 20:05:42,595 - Translation result: Por favor
+2024-11-21 20:05:42,595 - Translation result: Por favor
+2024-11-21 20:05:42,595 - Translation result: Por favor
+2024-11-21 20:05:42,595 - Translation result: Por favor
+2024-11-21 20:05:42,595 - Translation result: Por favor
+2024-11-21 20:05:42,595 - Translation result: Por favor
+2024-11-21 20:05:42,595 - Translation result: Por favor
+2024-11-21 20:05:42,595 - Translation result: Por favor
+2024-11-21 20:05:42,796 - Translation result: Por favor
+2024-11-21 20:05:42,796 - Translation result: Por favor
+2024-11-21 20:05:42,796 - Translation result: Por favor
+2024-11-21 20:05:42,796 - Translation result: Por favor
+2024-11-21 20:05:42,796 - Translation result: Por favor
+2024-11-21 20:05:42,796 - Translation result: Por favor
+2024-11-21 20:05:42,796 - Translation result: Por favor
+2024-11-21 20:05:42,796 - Translation result: Por favor
+2024-11-21 20:05:42,796 - Translation result: Por favor
+2024-11-21 20:05:42,796 - Translation result: Por favor
+2024-11-21 20:05:42,796 - Translation result: Por favor
+2024-11-21 20:05:42,796 - Translation result: Por favor
+2024-11-21 20:05:42,796 - Translation result: Por favor
+2024-11-21 20:05:42,796 - Translation result: Por favor
+2024-11-21 20:05:42,796 - Translation result: Por favor
+2024-11-21 20:05:42,796 - Translation result: Por favor
+2024-11-21 20:05:42,796 - Translation result: Por favor
+2024-11-21 20:05:42,796 - Translation result: Por favor
+2024-11-21 20:05:42,796 - Translation result: Por favor
+2024-11-21 20:05:42,796 - Translation result: Por favor
+2024-11-21 20:05:42,796 - Translation result: Por favor
+2024-11-21 20:05:42,796 - Translation result: Por favor
+2024-11-21 20:05:42,796 - Translation result: Por favor
+2024-11-21 20:05:43,160 - Translation result: Por favor
+2024-11-21 20:05:43,160 - Translation result: Por favor
+2024-11-21 20:05:43,160 - Translation result: Por favor
+2024-11-21 20:05:43,160 - Translation result: Por favor
+2024-11-21 20:05:43,160 - Translation result: Por favor
+2024-11-21 20:05:43,160 - Translation result: Por favor
+2024-11-21 20:05:43,160 - Translation result: Por favor
+2024-11-21 20:05:43,160 - Translation result: Por favor
+2024-11-21 20:05:43,160 - Translation result: Por favor
+2024-11-21 20:05:43,160 - Translation result: Por favor
+2024-11-21 20:05:43,160 - Translation result: Por favor
+2024-11-21 20:05:43,160 - Translation result: Por favor
+2024-11-21 20:05:43,160 - Translation result: Por favor
+2024-11-21 20:05:43,160 - Translation result: Por favor
+2024-11-21 20:05:43,160 - Translation result: Por favor
+2024-11-21 20:05:43,160 - Translation result: Por favor
+2024-11-21 20:05:43,160 - Translation result: Por favor
+2024-11-21 20:05:43,160 - Translation result: Por favor
+2024-11-21 20:05:43,160 - Translation result: Por favor
+2024-11-21 20:05:43,160 - Translation result: Por favor
+2024-11-21 20:05:43,160 - Translation result: Por favor
+2024-11-21 20:05:43,160 - Translation result: Por favor
+2024-11-21 20:05:43,160 - Translation result: Por favor
+2024-11-21 20:05:43,160 - Translation result: Por favor
+2024-11-21 20:05:43,698 - Translation result: Por favor
+2024-11-21 20:05:43,698 - Translation result: Por favor
+2024-11-21 20:05:43,698 - Translation result: Por favor
+2024-11-21 20:05:43,698 - Translation result: Por favor
+2024-11-21 20:05:43,698 - Translation result: Por favor
+2024-11-21 20:05:43,698 - Translation result: Por favor
+2024-11-21 20:05:43,698 - Translation result: Por favor
+2024-11-21 20:05:43,698 - Translation result: Por favor
+2024-11-21 20:05:43,698 - Translation result: Por favor
+2024-11-21 20:05:43,698 - Translation result: Por favor
+2024-11-21 20:05:43,698 - Translation result: Por favor
+2024-11-21 20:05:43,698 - Translation result: Por favor
+2024-11-21 20:05:43,698 - Translation result: Por favor
+2024-11-21 20:05:43,698 - Translation result: Por favor
+2024-11-21 20:05:43,698 - Translation result: Por favor
+2024-11-21 20:05:43,698 - Translation result: Por favor
+2024-11-21 20:05:43,698 - Translation result: Por favor
+2024-11-21 20:05:43,698 - Translation result: Por favor
+2024-11-21 20:05:43,698 - Translation result: Por favor
+2024-11-21 20:05:43,698 - Translation result: Por favor
+2024-11-21 20:05:43,698 - Translation result: Por favor
+2024-11-21 20:05:43,698 - Translation result: Por favor
+2024-11-21 20:05:43,698 - Translation result: Por favor
+2024-11-21 20:05:43,698 - Translation result: Por favor
+2024-11-21 20:05:43,698 - Translation result: Por favor
+2024-11-21 20:05:44,097 - Translation result: Por favor
+2024-11-21 20:05:44,097 - Translation result: Por favor
+2024-11-21 20:05:44,097 - Translation result: Por favor
+2024-11-21 20:05:44,097 - Translation result: Por favor
+2024-11-21 20:05:44,097 - Translation result: Por favor
+2024-11-21 20:05:44,097 - Translation result: Por favor
+2024-11-21 20:05:44,097 - Translation result: Por favor
+2024-11-21 20:05:44,097 - Translation result: Por favor
+2024-11-21 20:05:44,097 - Translation result: Por favor
+2024-11-21 20:05:44,097 - Translation result: Por favor
+2024-11-21 20:05:44,097 - Translation result: Por favor
+2024-11-21 20:05:44,097 - Translation result: Por favor
+2024-11-21 20:05:44,097 - Translation result: Por favor
+2024-11-21 20:05:44,097 - Translation result: Por favor
+2024-11-21 20:05:44,097 - Translation result: Por favor
+2024-11-21 20:05:44,097 - Translation result: Por favor
+2024-11-21 20:05:44,097 - Translation result: Por favor
+2024-11-21 20:05:44,097 - Translation result: Por favor
+2024-11-21 20:05:44,097 - Translation result: Por favor
+2024-11-21 20:05:44,097 - Translation result: Por favor
+2024-11-21 20:05:44,097 - Translation result: Por favor
+2024-11-21 20:05:44,097 - Translation result: Por favor
+2024-11-21 20:05:44,097 - Translation result: Por favor
+2024-11-21 20:05:44,097 - Translation result: Por favor
+2024-11-21 20:05:44,097 - Translation result: Por favor
+2024-11-21 20:05:44,097 - Translation result: Por favor
+2024-11-21 20:05:45,100 - Translation result: Por favor
+2024-11-21 20:05:45,100 - Translation result: Por favor
+2024-11-21 20:05:45,100 - Translation result: Por favor
+2024-11-21 20:05:45,100 - Translation result: Por favor
+2024-11-21 20:05:45,100 - Translation result: Por favor
+2024-11-21 20:05:45,100 - Translation result: Por favor
+2024-11-21 20:05:45,100 - Translation result: Por favor
+2024-11-21 20:05:45,100 - Translation result: Por favor
+2024-11-21 20:05:45,100 - Translation result: Por favor
+2024-11-21 20:05:45,100 - Translation result: Por favor
+2024-11-21 20:05:45,100 - Translation result: Por favor
+2024-11-21 20:05:45,100 - Translation result: Por favor
+2024-11-21 20:05:45,100 - Translation result: Por favor
+2024-11-21 20:05:45,100 - Translation result: Por favor
+2024-11-21 20:05:45,100 - Translation result: Por favor
+2024-11-21 20:05:45,100 - Translation result: Por favor
+2024-11-21 20:05:45,100 - Translation result: Por favor
+2024-11-21 20:05:45,100 - Translation result: Por favor
+2024-11-21 20:05:45,100 - Translation result: Por favor
+2024-11-21 20:05:45,100 - Translation result: Por favor
+2024-11-21 20:05:45,100 - Translation result: Por favor
+2024-11-21 20:05:45,100 - Translation result: Por favor
+2024-11-21 20:05:45,100 - Translation result: Por favor
+2024-11-21 20:05:45,100 - Translation result: Por favor
+2024-11-21 20:05:45,100 - Translation result: Por favor
+2024-11-21 20:05:45,100 - Translation result: Por favor
+2024-11-21 20:05:45,100 - Translation result: Por favor
+2024-11-21 20:05:45,832 - Translation result: Por favor
+2024-11-21 20:05:45,832 - Translation result: Por favor
+2024-11-21 20:05:45,832 - Translation result: Por favor
+2024-11-21 20:05:45,832 - Translation result: Por favor
+2024-11-21 20:05:45,832 - Translation result: Por favor
+2024-11-21 20:05:45,832 - Translation result: Por favor
+2024-11-21 20:05:45,832 - Translation result: Por favor
+2024-11-21 20:05:45,832 - Translation result: Por favor
+2024-11-21 20:05:45,832 - Translation result: Por favor
+2024-11-21 20:05:45,832 - Translation result: Por favor
+2024-11-21 20:05:45,832 - Translation result: Por favor
+2024-11-21 20:05:45,832 - Translation result: Por favor
+2024-11-21 20:05:45,832 - Translation result: Por favor
+2024-11-21 20:05:45,832 - Translation result: Por favor
+2024-11-21 20:05:45,832 - Translation result: Por favor
+2024-11-21 20:05:45,832 - Translation result: Por favor
+2024-11-21 20:05:45,832 - Translation result: Por favor
+2024-11-21 20:05:45,832 - Translation result: Por favor
+2024-11-21 20:05:45,832 - Translation result: Por favor
+2024-11-21 20:05:45,832 - Translation result: Por favor
+2024-11-21 20:05:45,832 - Translation result: Por favor
+2024-11-21 20:05:45,832 - Translation result: Por favor
+2024-11-21 20:05:45,832 - Translation result: Por favor
+2024-11-21 20:05:45,832 - Translation result: Por favor
+2024-11-21 20:05:45,832 - Translation result: Por favor
+2024-11-21 20:05:45,832 - Translation result: Por favor
+2024-11-21 20:05:45,832 - Translation result: Por favor
+2024-11-21 20:05:45,832 - Translation result: Por favor
+2024-11-21 20:05:46,657 - Translation result: Lo siento
+2024-11-21 20:05:46,657 - Translation result: Lo siento
+2024-11-21 20:05:46,657 - Translation result: Lo siento
+2024-11-21 20:05:46,657 - Translation result: Lo siento
+2024-11-21 20:05:46,657 - Translation result: Lo siento
+2024-11-21 20:05:46,657 - Translation result: Lo siento
+2024-11-21 20:05:46,657 - Translation result: Lo siento
+2024-11-21 20:05:46,657 - Translation result: Lo siento
+2024-11-21 20:05:46,657 - Translation result: Lo siento
+2024-11-21 20:05:46,657 - Translation result: Lo siento
+2024-11-21 20:05:46,657 - Translation result: Lo siento
+2024-11-21 20:05:46,657 - Translation result: Lo siento
+2024-11-21 20:05:46,657 - Translation result: Lo siento
+2024-11-21 20:05:46,657 - Translation result: Lo siento
+2024-11-21 20:05:46,657 - Translation result: Lo siento
+2024-11-21 20:05:46,657 - Translation result: Lo siento
+2024-11-21 20:05:46,657 - Translation result: Lo siento
+2024-11-21 20:05:46,657 - Translation result: Lo siento
+2024-11-21 20:05:46,657 - Translation result: Lo siento
+2024-11-21 20:05:46,657 - Translation result: Lo siento
+2024-11-21 20:05:46,657 - Translation result: Lo siento
+2024-11-21 20:05:46,657 - Translation result: Lo siento
+2024-11-21 20:05:46,657 - Translation result: Lo siento
+2024-11-21 20:05:46,657 - Translation result: Lo siento
+2024-11-21 20:05:46,657 - Translation result: Lo siento
+2024-11-21 20:05:46,657 - Translation result: Lo siento
+2024-11-21 20:05:46,657 - Translation result: Lo siento
+2024-11-21 20:05:46,657 - Translation result: Lo siento
+2024-11-21 20:05:46,657 - Translation result: Lo siento
+2024-11-21 20:05:49,137 - Translation result: Lo siento
+2024-11-21 20:05:49,137 - Translation result: Lo siento
+2024-11-21 20:05:49,137 - Translation result: Lo siento
+2024-11-21 20:05:49,137 - Translation result: Lo siento
+2024-11-21 20:05:49,137 - Translation result: Lo siento
+2024-11-21 20:05:49,137 - Translation result: Lo siento
+2024-11-21 20:05:49,137 - Translation result: Lo siento
+2024-11-21 20:05:49,137 - Translation result: Lo siento
+2024-11-21 20:05:49,137 - Translation result: Lo siento
+2024-11-21 20:05:49,137 - Translation result: Lo siento
+2024-11-21 20:05:49,137 - Translation result: Lo siento
+2024-11-21 20:05:49,137 - Translation result: Lo siento
+2024-11-21 20:05:49,137 - Translation result: Lo siento
+2024-11-21 20:05:49,137 - Translation result: Lo siento
+2024-11-21 20:05:49,137 - Translation result: Lo siento
+2024-11-21 20:05:49,137 - Translation result: Lo siento
+2024-11-21 20:05:49,137 - Translation result: Lo siento
+2024-11-21 20:05:49,137 - Translation result: Lo siento
+2024-11-21 20:05:49,137 - Translation result: Lo siento
+2024-11-21 20:05:49,137 - Translation result: Lo siento
+2024-11-21 20:05:49,137 - Translation result: Lo siento
+2024-11-21 20:05:49,137 - Translation result: Lo siento
+2024-11-21 20:05:49,137 - Translation result: Lo siento
+2024-11-21 20:05:49,137 - Translation result: Lo siento
+2024-11-21 20:05:49,137 - Translation result: Lo siento
+2024-11-21 20:05:49,137 - Translation result: Lo siento
+2024-11-21 20:05:49,137 - Translation result: Lo siento
+2024-11-21 20:05:49,137 - Translation result: Lo siento
+2024-11-21 20:05:49,137 - Translation result: Lo siento
+2024-11-21 20:05:49,137 - Translation result: Lo siento
+2024-11-21 20:05:57,219 - Translation result: T
+2024-11-21 20:05:57,219 - Translation result: T
+2024-11-21 20:05:57,219 - Translation result: T
+2024-11-21 20:05:57,219 - Translation result: T
+2024-11-21 20:05:57,219 - Translation result: T
+2024-11-21 20:05:57,219 - Translation result: T
+2024-11-21 20:05:57,219 - Translation result: T
+2024-11-21 20:05:57,219 - Translation result: T
+2024-11-21 20:05:57,219 - Translation result: T
+2024-11-21 20:05:57,219 - Translation result: T
+2024-11-21 20:05:57,219 - Translation result: T
+2024-11-21 20:05:57,219 - Translation result: T
+2024-11-21 20:05:57,219 - Translation result: T
+2024-11-21 20:05:57,219 - Translation result: T
+2024-11-21 20:05:57,219 - Translation result: T
+2024-11-21 20:05:57,219 - Translation result: T
+2024-11-21 20:05:57,219 - Translation result: T
+2024-11-21 20:05:57,219 - Translation result: T
+2024-11-21 20:05:57,219 - Translation result: T
+2024-11-21 20:05:57,219 - Translation result: T
+2024-11-21 20:05:57,219 - Translation result: T
+2024-11-21 20:05:57,219 - Translation result: T
+2024-11-21 20:05:57,219 - Translation result: T
+2024-11-21 20:05:57,219 - Translation result: T
+2024-11-21 20:05:57,219 - Translation result: T
+2024-11-21 20:05:57,219 - Translation result: T
+2024-11-21 20:05:57,219 - Translation result: T
+2024-11-21 20:05:57,219 - Translation result: T
+2024-11-21 20:05:57,219 - Translation result: T
+2024-11-21 20:05:57,219 - Translation result: T
+2024-11-21 20:05:57,219 - Translation result: T
+2024-11-21 20:05:57,820 - Translation result: T
+2024-11-21 20:05:57,820 - Translation result: T
+2024-11-21 20:05:57,820 - Translation result: T
+2024-11-21 20:05:57,820 - Translation result: T
+2024-11-21 20:05:57,820 - Translation result: T
+2024-11-21 20:05:57,820 - Translation result: T
+2024-11-21 20:05:57,820 - Translation result: T
+2024-11-21 20:05:57,820 - Translation result: T
+2024-11-21 20:05:57,820 - Translation result: T
+2024-11-21 20:05:57,820 - Translation result: T
+2024-11-21 20:05:57,820 - Translation result: T
+2024-11-21 20:05:57,820 - Translation result: T
+2024-11-21 20:05:57,820 - Translation result: T
+2024-11-21 20:05:57,820 - Translation result: T
+2024-11-21 20:05:57,820 - Translation result: T
+2024-11-21 20:05:57,820 - Translation result: T
+2024-11-21 20:05:57,820 - Translation result: T
+2024-11-21 20:05:57,820 - Translation result: T
+2024-11-21 20:05:57,820 - Translation result: T
+2024-11-21 20:05:57,820 - Translation result: T
+2024-11-21 20:05:57,820 - Translation result: T
+2024-11-21 20:05:57,820 - Translation result: T
+2024-11-21 20:05:57,820 - Translation result: T
+2024-11-21 20:05:57,820 - Translation result: T
+2024-11-21 20:05:57,820 - Translation result: T
+2024-11-21 20:05:57,820 - Translation result: T
+2024-11-21 20:05:57,820 - Translation result: T
+2024-11-21 20:05:57,820 - Translation result: T
+2024-11-21 20:05:57,820 - Translation result: T
+2024-11-21 20:05:57,820 - Translation result: T
+2024-11-21 20:05:57,820 - Translation result: T
+2024-11-21 20:05:57,820 - Translation result: T
+2024-11-21 20:05:58,922 - Translation result: T
+2024-11-21 20:05:58,922 - Translation result: T
+2024-11-21 20:05:58,922 - Translation result: T
+2024-11-21 20:05:58,922 - Translation result: T
+2024-11-21 20:05:58,922 - Translation result: T
+2024-11-21 20:05:58,922 - Translation result: T
+2024-11-21 20:05:58,922 - Translation result: T
+2024-11-21 20:05:58,922 - Translation result: T
+2024-11-21 20:05:58,922 - Translation result: T
+2024-11-21 20:05:58,922 - Translation result: T
+2024-11-21 20:05:58,922 - Translation result: T
+2024-11-21 20:05:58,922 - Translation result: T
+2024-11-21 20:05:58,922 - Translation result: T
+2024-11-21 20:05:58,922 - Translation result: T
+2024-11-21 20:05:58,922 - Translation result: T
+2024-11-21 20:05:58,922 - Translation result: T
+2024-11-21 20:05:58,922 - Translation result: T
+2024-11-21 20:05:58,922 - Translation result: T
+2024-11-21 20:05:58,922 - Translation result: T
+2024-11-21 20:05:58,922 - Translation result: T
+2024-11-21 20:05:58,922 - Translation result: T
+2024-11-21 20:05:58,922 - Translation result: T
+2024-11-21 20:05:58,922 - Translation result: T
+2024-11-21 20:05:58,922 - Translation result: T
+2024-11-21 20:05:58,922 - Translation result: T
+2024-11-21 20:05:58,922 - Translation result: T
+2024-11-21 20:05:58,922 - Translation result: T
+2024-11-21 20:05:58,922 - Translation result: T
+2024-11-21 20:05:58,922 - Translation result: T
+2024-11-21 20:05:58,922 - Translation result: T
+2024-11-21 20:05:58,922 - Translation result: T
+2024-11-21 20:05:58,922 - Translation result: T
+2024-11-21 20:05:58,922 - Translation result: T
+2024-11-21 20:05:59,864 - Translation result: T
+2024-11-21 20:05:59,864 - Translation result: T
+2024-11-21 20:05:59,864 - Translation result: T
+2024-11-21 20:05:59,864 - Translation result: T
+2024-11-21 20:05:59,864 - Translation result: T
+2024-11-21 20:05:59,864 - Translation result: T
+2024-11-21 20:05:59,864 - Translation result: T
+2024-11-21 20:05:59,864 - Translation result: T
+2024-11-21 20:05:59,864 - Translation result: T
+2024-11-21 20:05:59,864 - Translation result: T
+2024-11-21 20:05:59,864 - Translation result: T
+2024-11-21 20:05:59,864 - Translation result: T
+2024-11-21 20:05:59,864 - Translation result: T
+2024-11-21 20:05:59,864 - Translation result: T
+2024-11-21 20:05:59,864 - Translation result: T
+2024-11-21 20:05:59,864 - Translation result: T
+2024-11-21 20:05:59,864 - Translation result: T
+2024-11-21 20:05:59,864 - Translation result: T
+2024-11-21 20:05:59,864 - Translation result: T
+2024-11-21 20:05:59,864 - Translation result: T
+2024-11-21 20:05:59,864 - Translation result: T
+2024-11-21 20:05:59,864 - Translation result: T
+2024-11-21 20:05:59,864 - Translation result: T
+2024-11-21 20:05:59,864 - Translation result: T
+2024-11-21 20:05:59,864 - Translation result: T
+2024-11-21 20:05:59,864 - Translation result: T
+2024-11-21 20:05:59,864 - Translation result: T
+2024-11-21 20:05:59,864 - Translation result: T
+2024-11-21 20:05:59,864 - Translation result: T
+2024-11-21 20:05:59,864 - Translation result: T
+2024-11-21 20:05:59,864 - Translation result: T
+2024-11-21 20:05:59,864 - Translation result: T
+2024-11-21 20:05:59,864 - Translation result: T
+2024-11-21 20:05:59,864 - Translation result: T
+2024-11-21 20:06:00,383 - Translation result: Por favor
+2024-11-21 20:06:00,383 - Translation result: Por favor
+2024-11-21 20:06:00,383 - Translation result: Por favor
+2024-11-21 20:06:00,383 - Translation result: Por favor
+2024-11-21 20:06:00,383 - Translation result: Por favor
+2024-11-21 20:06:00,383 - Translation result: Por favor
+2024-11-21 20:06:00,383 - Translation result: Por favor
+2024-11-21 20:06:00,383 - Translation result: Por favor
+2024-11-21 20:06:00,383 - Translation result: Por favor
+2024-11-21 20:06:00,383 - Translation result: Por favor
+2024-11-21 20:06:00,383 - Translation result: Por favor
+2024-11-21 20:06:00,383 - Translation result: Por favor
+2024-11-21 20:06:00,383 - Translation result: Por favor
+2024-11-21 20:06:00,383 - Translation result: Por favor
+2024-11-21 20:06:00,383 - Translation result: Por favor
+2024-11-21 20:06:00,383 - Translation result: Por favor
+2024-11-21 20:06:00,383 - Translation result: Por favor
+2024-11-21 20:06:00,383 - Translation result: Por favor
+2024-11-21 20:06:00,383 - Translation result: Por favor
+2024-11-21 20:06:00,383 - Translation result: Por favor
+2024-11-21 20:06:00,383 - Translation result: Por favor
+2024-11-21 20:06:00,383 - Translation result: Por favor
+2024-11-21 20:06:00,383 - Translation result: Por favor
+2024-11-21 20:06:00,383 - Translation result: Por favor
+2024-11-21 20:06:00,383 - Translation result: Por favor
+2024-11-21 20:06:00,383 - Translation result: Por favor
+2024-11-21 20:06:00,383 - Translation result: Por favor
+2024-11-21 20:06:00,383 - Translation result: Por favor
+2024-11-21 20:06:00,383 - Translation result: Por favor
+2024-11-21 20:06:00,383 - Translation result: Por favor
+2024-11-21 20:06:00,383 - Translation result: Por favor
+2024-11-21 20:06:00,383 - Translation result: Por favor
+2024-11-21 20:06:00,383 - Translation result: Por favor
+2024-11-21 20:06:00,383 - Translation result: Por favor
+2024-11-21 20:06:00,383 - Translation result: Por favor
+2024-11-21 20:06:00,586 - Translation result: Por favor
+2024-11-21 20:06:00,586 - Translation result: Por favor
+2024-11-21 20:06:00,586 - Translation result: Por favor
+2024-11-21 20:06:00,586 - Translation result: Por favor
+2024-11-21 20:06:00,586 - Translation result: Por favor
+2024-11-21 20:06:00,586 - Translation result: Por favor
+2024-11-21 20:06:00,586 - Translation result: Por favor
+2024-11-21 20:06:00,586 - Translation result: Por favor
+2024-11-21 20:06:00,586 - Translation result: Por favor
+2024-11-21 20:06:00,586 - Translation result: Por favor
+2024-11-21 20:06:00,586 - Translation result: Por favor
+2024-11-21 20:06:00,586 - Translation result: Por favor
+2024-11-21 20:06:00,586 - Translation result: Por favor
+2024-11-21 20:06:00,586 - Translation result: Por favor
+2024-11-21 20:06:00,586 - Translation result: Por favor
+2024-11-21 20:06:00,586 - Translation result: Por favor
+2024-11-21 20:06:00,586 - Translation result: Por favor
+2024-11-21 20:06:00,586 - Translation result: Por favor
+2024-11-21 20:06:00,586 - Translation result: Por favor
+2024-11-21 20:06:00,586 - Translation result: Por favor
+2024-11-21 20:06:00,586 - Translation result: Por favor
+2024-11-21 20:06:00,586 - Translation result: Por favor
+2024-11-21 20:06:00,586 - Translation result: Por favor
+2024-11-21 20:06:00,586 - Translation result: Por favor
+2024-11-21 20:06:00,586 - Translation result: Por favor
+2024-11-21 20:06:00,586 - Translation result: Por favor
+2024-11-21 20:06:00,586 - Translation result: Por favor
+2024-11-21 20:06:00,586 - Translation result: Por favor
+2024-11-21 20:06:00,586 - Translation result: Por favor
+2024-11-21 20:06:00,586 - Translation result: Por favor
+2024-11-21 20:06:00,586 - Translation result: Por favor
+2024-11-21 20:06:00,586 - Translation result: Por favor
+2024-11-21 20:06:00,586 - Translation result: Por favor
+2024-11-21 20:06:00,586 - Translation result: Por favor
+2024-11-21 20:06:00,586 - Translation result: Por favor
+2024-11-21 20:06:00,586 - Translation result: Por favor
+2024-11-21 20:06:02,182 - Translation result: Por favor
+2024-11-21 20:06:02,182 - Translation result: Por favor
+2024-11-21 20:06:02,182 - Translation result: Por favor
+2024-11-21 20:06:02,182 - Translation result: Por favor
+2024-11-21 20:06:02,182 - Translation result: Por favor
+2024-11-21 20:06:02,182 - Translation result: Por favor
+2024-11-21 20:06:02,182 - Translation result: Por favor
+2024-11-21 20:06:02,182 - Translation result: Por favor
+2024-11-21 20:06:02,182 - Translation result: Por favor
+2024-11-21 20:06:02,182 - Translation result: Por favor
+2024-11-21 20:06:02,182 - Translation result: Por favor
+2024-11-21 20:06:02,182 - Translation result: Por favor
+2024-11-21 20:06:02,182 - Translation result: Por favor
+2024-11-21 20:06:02,182 - Translation result: Por favor
+2024-11-21 20:06:02,182 - Translation result: Por favor
+2024-11-21 20:06:02,182 - Translation result: Por favor
+2024-11-21 20:06:02,182 - Translation result: Por favor
+2024-11-21 20:06:02,182 - Translation result: Por favor
+2024-11-21 20:06:02,182 - Translation result: Por favor
+2024-11-21 20:06:02,182 - Translation result: Por favor
+2024-11-21 20:06:02,182 - Translation result: Por favor
+2024-11-21 20:06:02,182 - Translation result: Por favor
+2024-11-21 20:06:02,182 - Translation result: Por favor
+2024-11-21 20:06:02,182 - Translation result: Por favor
+2024-11-21 20:06:02,182 - Translation result: Por favor
+2024-11-21 20:06:02,182 - Translation result: Por favor
+2024-11-21 20:06:02,182 - Translation result: Por favor
+2024-11-21 20:06:02,182 - Translation result: Por favor
+2024-11-21 20:06:02,182 - Translation result: Por favor
+2024-11-21 20:06:02,182 - Translation result: Por favor
+2024-11-21 20:06:02,182 - Translation result: Por favor
+2024-11-21 20:06:02,182 - Translation result: Por favor
+2024-11-21 20:06:02,182 - Translation result: Por favor
+2024-11-21 20:06:02,182 - Translation result: Por favor
+2024-11-21 20:06:02,182 - Translation result: Por favor
+2024-11-21 20:06:02,182 - Translation result: Por favor
+2024-11-21 20:06:02,182 - Translation result: Por favor
+2024-11-21 20:06:02,422 - Translation result: Por favor
+2024-11-21 20:06:02,422 - Translation result: Por favor
+2024-11-21 20:06:02,422 - Translation result: Por favor
+2024-11-21 20:06:02,422 - Translation result: Por favor
+2024-11-21 20:06:02,422 - Translation result: Por favor
+2024-11-21 20:06:02,422 - Translation result: Por favor
+2024-11-21 20:06:02,422 - Translation result: Por favor
+2024-11-21 20:06:02,422 - Translation result: Por favor
+2024-11-21 20:06:02,422 - Translation result: Por favor
+2024-11-21 20:06:02,422 - Translation result: Por favor
+2024-11-21 20:06:02,422 - Translation result: Por favor
+2024-11-21 20:06:02,422 - Translation result: Por favor
+2024-11-21 20:06:02,422 - Translation result: Por favor
+2024-11-21 20:06:02,422 - Translation result: Por favor
+2024-11-21 20:06:02,422 - Translation result: Por favor
+2024-11-21 20:06:02,422 - Translation result: Por favor
+2024-11-21 20:06:02,422 - Translation result: Por favor
+2024-11-21 20:06:02,422 - Translation result: Por favor
+2024-11-21 20:06:02,422 - Translation result: Por favor
+2024-11-21 20:06:02,422 - Translation result: Por favor
+2024-11-21 20:06:02,422 - Translation result: Por favor
+2024-11-21 20:06:02,422 - Translation result: Por favor
+2024-11-21 20:06:02,422 - Translation result: Por favor
+2024-11-21 20:06:02,422 - Translation result: Por favor
+2024-11-21 20:06:02,422 - Translation result: Por favor
+2024-11-21 20:06:02,422 - Translation result: Por favor
+2024-11-21 20:06:02,422 - Translation result: Por favor
+2024-11-21 20:06:02,422 - Translation result: Por favor
+2024-11-21 20:06:02,422 - Translation result: Por favor
+2024-11-21 20:06:02,422 - Translation result: Por favor
+2024-11-21 20:06:02,422 - Translation result: Por favor
+2024-11-21 20:06:02,422 - Translation result: Por favor
+2024-11-21 20:06:02,422 - Translation result: Por favor
+2024-11-21 20:06:02,422 - Translation result: Por favor
+2024-11-21 20:06:02,422 - Translation result: Por favor
+2024-11-21 20:06:02,422 - Translation result: Por favor
+2024-11-21 20:06:02,422 - Translation result: Por favor
+2024-11-21 20:06:02,422 - Translation result: Por favor
+2024-11-21 20:06:02,675 - Translation result: Gracias
+2024-11-21 20:06:02,675 - Translation result: Gracias
+2024-11-21 20:06:02,675 - Translation result: Gracias
+2024-11-21 20:06:02,675 - Translation result: Gracias
+2024-11-21 20:06:02,675 - Translation result: Gracias
+2024-11-21 20:06:02,675 - Translation result: Gracias
+2024-11-21 20:06:02,675 - Translation result: Gracias
+2024-11-21 20:06:02,675 - Translation result: Gracias
+2024-11-21 20:06:02,675 - Translation result: Gracias
+2024-11-21 20:06:02,675 - Translation result: Gracias
+2024-11-21 20:06:02,675 - Translation result: Gracias
+2024-11-21 20:06:02,675 - Translation result: Gracias
+2024-11-21 20:06:02,675 - Translation result: Gracias
+2024-11-21 20:06:02,675 - Translation result: Gracias
+2024-11-21 20:06:02,675 - Translation result: Gracias
+2024-11-21 20:06:02,675 - Translation result: Gracias
+2024-11-21 20:06:02,675 - Translation result: Gracias
+2024-11-21 20:06:02,675 - Translation result: Gracias
+2024-11-21 20:06:02,675 - Translation result: Gracias
+2024-11-21 20:06:02,675 - Translation result: Gracias
+2024-11-21 20:06:02,675 - Translation result: Gracias
+2024-11-21 20:06:02,675 - Translation result: Gracias
+2024-11-21 20:06:02,675 - Translation result: Gracias
+2024-11-21 20:06:02,675 - Translation result: Gracias
+2024-11-21 20:06:02,675 - Translation result: Gracias
+2024-11-21 20:06:02,675 - Translation result: Gracias
+2024-11-21 20:06:02,675 - Translation result: Gracias
+2024-11-21 20:06:02,675 - Translation result: Gracias
+2024-11-21 20:06:02,675 - Translation result: Gracias
+2024-11-21 20:06:02,675 - Translation result: Gracias
+2024-11-21 20:06:02,675 - Translation result: Gracias
+2024-11-21 20:06:02,675 - Translation result: Gracias
+2024-11-21 20:06:02,675 - Translation result: Gracias
+2024-11-21 20:06:02,675 - Translation result: Gracias
+2024-11-21 20:06:02,675 - Translation result: Gracias
+2024-11-21 20:06:02,675 - Translation result: Gracias
+2024-11-21 20:06:02,675 - Translation result: Gracias
+2024-11-21 20:06:02,675 - Translation result: Gracias
+2024-11-21 20:06:02,675 - Translation result: Gracias
+2024-11-21 20:06:02,977 - Translation result: Gracias
+2024-11-21 20:06:02,977 - Translation result: Gracias
+2024-11-21 20:06:02,977 - Translation result: Gracias
+2024-11-21 20:06:02,977 - Translation result: Gracias
+2024-11-21 20:06:02,977 - Translation result: Gracias
+2024-11-21 20:06:02,977 - Translation result: Gracias
+2024-11-21 20:06:02,977 - Translation result: Gracias
+2024-11-21 20:06:02,977 - Translation result: Gracias
+2024-11-21 20:06:02,977 - Translation result: Gracias
+2024-11-21 20:06:02,977 - Translation result: Gracias
+2024-11-21 20:06:02,977 - Translation result: Gracias
+2024-11-21 20:06:02,977 - Translation result: Gracias
+2024-11-21 20:06:02,977 - Translation result: Gracias
+2024-11-21 20:06:02,977 - Translation result: Gracias
+2024-11-21 20:06:02,977 - Translation result: Gracias
+2024-11-21 20:06:02,977 - Translation result: Gracias
+2024-11-21 20:06:02,977 - Translation result: Gracias
+2024-11-21 20:06:02,977 - Translation result: Gracias
+2024-11-21 20:06:02,977 - Translation result: Gracias
+2024-11-21 20:06:02,977 - Translation result: Gracias
+2024-11-21 20:06:02,977 - Translation result: Gracias
+2024-11-21 20:06:02,977 - Translation result: Gracias
+2024-11-21 20:06:02,977 - Translation result: Gracias
+2024-11-21 20:06:02,977 - Translation result: Gracias
+2024-11-21 20:06:02,977 - Translation result: Gracias
+2024-11-21 20:06:02,977 - Translation result: Gracias
+2024-11-21 20:06:02,977 - Translation result: Gracias
+2024-11-21 20:06:02,977 - Translation result: Gracias
+2024-11-21 20:06:02,977 - Translation result: Gracias
+2024-11-21 20:06:02,977 - Translation result: Gracias
+2024-11-21 20:06:02,977 - Translation result: Gracias
+2024-11-21 20:06:02,977 - Translation result: Gracias
+2024-11-21 20:06:02,977 - Translation result: Gracias
+2024-11-21 20:06:02,977 - Translation result: Gracias
+2024-11-21 20:06:02,977 - Translation result: Gracias
+2024-11-21 20:06:02,977 - Translation result: Gracias
+2024-11-21 20:06:02,977 - Translation result: Gracias
+2024-11-21 20:06:02,977 - Translation result: Gracias
+2024-11-21 20:06:02,977 - Translation result: Gracias
+2024-11-21 20:06:02,977 - Translation result: Gracias
+2024-11-21 20:06:03,314 - Translation result: Gracias
+2024-11-21 20:06:03,314 - Translation result: Gracias
+2024-11-21 20:06:03,314 - Translation result: Gracias
+2024-11-21 20:06:03,314 - Translation result: Gracias
+2024-11-21 20:06:03,314 - Translation result: Gracias
+2024-11-21 20:06:03,314 - Translation result: Gracias
+2024-11-21 20:06:03,314 - Translation result: Gracias
+2024-11-21 20:06:03,314 - Translation result: Gracias
+2024-11-21 20:06:03,314 - Translation result: Gracias
+2024-11-21 20:06:03,314 - Translation result: Gracias
+2024-11-21 20:06:03,314 - Translation result: Gracias
+2024-11-21 20:06:03,314 - Translation result: Gracias
+2024-11-21 20:06:03,314 - Translation result: Gracias
+2024-11-21 20:06:03,314 - Translation result: Gracias
+2024-11-21 20:06:03,314 - Translation result: Gracias
+2024-11-21 20:06:03,314 - Translation result: Gracias
+2024-11-21 20:06:03,314 - Translation result: Gracias
+2024-11-21 20:06:03,314 - Translation result: Gracias
+2024-11-21 20:06:03,314 - Translation result: Gracias
+2024-11-21 20:06:03,314 - Translation result: Gracias
+2024-11-21 20:06:03,314 - Translation result: Gracias
+2024-11-21 20:06:03,314 - Translation result: Gracias
+2024-11-21 20:06:03,314 - Translation result: Gracias
+2024-11-21 20:06:03,314 - Translation result: Gracias
+2024-11-21 20:06:03,314 - Translation result: Gracias
+2024-11-21 20:06:03,314 - Translation result: Gracias
+2024-11-21 20:06:03,314 - Translation result: Gracias
+2024-11-21 20:06:03,314 - Translation result: Gracias
+2024-11-21 20:06:03,314 - Translation result: Gracias
+2024-11-21 20:06:03,314 - Translation result: Gracias
+2024-11-21 20:06:03,314 - Translation result: Gracias
+2024-11-21 20:06:03,314 - Translation result: Gracias
+2024-11-21 20:06:03,314 - Translation result: Gracias
+2024-11-21 20:06:03,314 - Translation result: Gracias
+2024-11-21 20:06:03,314 - Translation result: Gracias
+2024-11-21 20:06:03,314 - Translation result: Gracias
+2024-11-21 20:06:03,314 - Translation result: Gracias
+2024-11-21 20:06:03,314 - Translation result: Gracias
+2024-11-21 20:06:03,314 - Translation result: Gracias
+2024-11-21 20:06:03,314 - Translation result: Gracias
+2024-11-21 20:06:03,314 - Translation result: Gracias
+2024-11-21 20:06:08,369 - Translation result: Por favor
+2024-11-21 20:06:08,369 - Translation result: Por favor
+2024-11-21 20:06:08,369 - Translation result: Por favor
+2024-11-21 20:06:08,369 - Translation result: Por favor
+2024-11-21 20:06:08,369 - Translation result: Por favor
+2024-11-21 20:06:08,369 - Translation result: Por favor
+2024-11-21 20:06:08,369 - Translation result: Por favor
+2024-11-21 20:06:08,369 - Translation result: Por favor
+2024-11-21 20:06:08,369 - Translation result: Por favor
+2024-11-21 20:06:08,369 - Translation result: Por favor
+2024-11-21 20:06:08,369 - Translation result: Por favor
+2024-11-21 20:06:08,369 - Translation result: Por favor
+2024-11-21 20:06:08,369 - Translation result: Por favor
+2024-11-21 20:06:08,369 - Translation result: Por favor
+2024-11-21 20:06:08,369 - Translation result: Por favor
+2024-11-21 20:06:08,369 - Translation result: Por favor
+2024-11-21 20:06:08,369 - Translation result: Por favor
+2024-11-21 20:06:08,369 - Translation result: Por favor
+2024-11-21 20:06:08,369 - Translation result: Por favor
+2024-11-21 20:06:08,369 - Translation result: Por favor
+2024-11-21 20:06:08,369 - Translation result: Por favor
+2024-11-21 20:06:08,369 - Translation result: Por favor
+2024-11-21 20:06:08,369 - Translation result: Por favor
+2024-11-21 20:06:08,369 - Translation result: Por favor
+2024-11-21 20:06:08,369 - Translation result: Por favor
+2024-11-21 20:06:08,369 - Translation result: Por favor
+2024-11-21 20:06:08,369 - Translation result: Por favor
+2024-11-21 20:06:08,369 - Translation result: Por favor
+2024-11-21 20:06:08,369 - Translation result: Por favor
+2024-11-21 20:06:08,369 - Translation result: Por favor
+2024-11-21 20:06:08,369 - Translation result: Por favor
+2024-11-21 20:06:08,369 - Translation result: Por favor
+2024-11-21 20:06:08,369 - Translation result: Por favor
+2024-11-21 20:06:08,369 - Translation result: Por favor
+2024-11-21 20:06:08,369 - Translation result: Por favor
+2024-11-21 20:06:08,369 - Translation result: Por favor
+2024-11-21 20:06:08,369 - Translation result: Por favor
+2024-11-21 20:06:08,369 - Translation result: Por favor
+2024-11-21 20:06:08,369 - Translation result: Por favor
+2024-11-21 20:06:08,369 - Translation result: Por favor
+2024-11-21 20:06:08,369 - Translation result: Por favor
+2024-11-21 20:06:08,369 - Translation result: Por favor
+2024-11-21 20:06:10,542 - Translation result: Por favor
+2024-11-21 20:06:10,542 - Translation result: Por favor
+2024-11-21 20:06:10,542 - Translation result: Por favor
+2024-11-21 20:06:10,542 - Translation result: Por favor
+2024-11-21 20:06:10,542 - Translation result: Por favor
+2024-11-21 20:06:10,542 - Translation result: Por favor
+2024-11-21 20:06:10,542 - Translation result: Por favor
+2024-11-21 20:06:10,542 - Translation result: Por favor
+2024-11-21 20:06:10,542 - Translation result: Por favor
+2024-11-21 20:06:10,542 - Translation result: Por favor
+2024-11-21 20:06:10,542 - Translation result: Por favor
+2024-11-21 20:06:10,542 - Translation result: Por favor
+2024-11-21 20:06:10,542 - Translation result: Por favor
+2024-11-21 20:06:10,542 - Translation result: Por favor
+2024-11-21 20:06:10,542 - Translation result: Por favor
+2024-11-21 20:06:10,542 - Translation result: Por favor
+2024-11-21 20:06:10,542 - Translation result: Por favor
+2024-11-21 20:06:10,542 - Translation result: Por favor
+2024-11-21 20:06:10,542 - Translation result: Por favor
+2024-11-21 20:06:10,542 - Translation result: Por favor
+2024-11-21 20:06:10,542 - Translation result: Por favor
+2024-11-21 20:06:10,542 - Translation result: Por favor
+2024-11-21 20:06:10,542 - Translation result: Por favor
+2024-11-21 20:06:10,542 - Translation result: Por favor
+2024-11-21 20:06:10,542 - Translation result: Por favor
+2024-11-21 20:06:10,542 - Translation result: Por favor
+2024-11-21 20:06:10,542 - Translation result: Por favor
+2024-11-21 20:06:10,542 - Translation result: Por favor
+2024-11-21 20:06:10,542 - Translation result: Por favor
+2024-11-21 20:06:10,542 - Translation result: Por favor
+2024-11-21 20:06:10,542 - Translation result: Por favor
+2024-11-21 20:06:10,542 - Translation result: Por favor
+2024-11-21 20:06:10,542 - Translation result: Por favor
+2024-11-21 20:06:10,542 - Translation result: Por favor
+2024-11-21 20:06:10,542 - Translation result: Por favor
+2024-11-21 20:06:10,542 - Translation result: Por favor
+2024-11-21 20:06:10,542 - Translation result: Por favor
+2024-11-21 20:06:10,542 - Translation result: Por favor
+2024-11-21 20:06:10,542 - Translation result: Por favor
+2024-11-21 20:06:10,542 - Translation result: Por favor
+2024-11-21 20:06:10,542 - Translation result: Por favor
+2024-11-21 20:06:10,542 - Translation result: Por favor
+2024-11-21 20:06:10,542 - Translation result: Por favor
+2024-11-21 20:07:09,397 - Translation result: T
+2024-11-21 20:07:09,397 - Translation result: T
+2024-11-21 20:07:09,397 - Translation result: T
+2024-11-21 20:07:09,397 - Translation result: T
+2024-11-21 20:07:09,397 - Translation result: T
+2024-11-21 20:07:09,397 - Translation result: T
+2024-11-21 20:07:09,397 - Translation result: T
+2024-11-21 20:07:09,397 - Translation result: T
+2024-11-21 20:07:09,397 - Translation result: T
+2024-11-21 20:07:09,397 - Translation result: T
+2024-11-21 20:07:09,397 - Translation result: T
+2024-11-21 20:07:09,397 - Translation result: T
+2024-11-21 20:07:09,397 - Translation result: T
+2024-11-21 20:07:09,397 - Translation result: T
+2024-11-21 20:07:09,397 - Translation result: T
+2024-11-21 20:07:09,397 - Translation result: T
+2024-11-21 20:07:09,397 - Translation result: T
+2024-11-21 20:07:09,397 - Translation result: T
+2024-11-21 20:07:09,397 - Translation result: T
+2024-11-21 20:07:09,397 - Translation result: T
+2024-11-21 20:07:09,397 - Translation result: T
+2024-11-21 20:07:09,397 - Translation result: T
+2024-11-21 20:07:09,397 - Translation result: T
+2024-11-21 20:07:09,397 - Translation result: T
+2024-11-21 20:07:09,397 - Translation result: T
+2024-11-21 20:07:09,397 - Translation result: T
+2024-11-21 20:07:09,397 - Translation result: T
+2024-11-21 20:07:09,397 - Translation result: T
+2024-11-21 20:07:09,397 - Translation result: T
+2024-11-21 20:07:09,397 - Translation result: T
+2024-11-21 20:07:09,397 - Translation result: T
+2024-11-21 20:07:09,397 - Translation result: T
+2024-11-21 20:07:09,397 - Translation result: T
+2024-11-21 20:07:09,397 - Translation result: T
+2024-11-21 20:07:09,397 - Translation result: T
+2024-11-21 20:07:09,397 - Translation result: T
+2024-11-21 20:07:09,397 - Translation result: T
+2024-11-21 20:07:09,397 - Translation result: T
+2024-11-21 20:07:09,397 - Translation result: T
+2024-11-21 20:07:09,397 - Translation result: T
+2024-11-21 20:07:09,397 - Translation result: T
+2024-11-21 20:07:09,397 - Translation result: T
+2024-11-21 20:07:09,397 - Translation result: T
+2024-11-21 20:07:09,397 - Translation result: T
+2024-11-21 20:07:09,857 - Translation result: T
+2024-11-21 20:07:09,857 - Translation result: T
+2024-11-21 20:07:09,857 - Translation result: T
+2024-11-21 20:07:09,857 - Translation result: T
+2024-11-21 20:07:09,857 - Translation result: T
+2024-11-21 20:07:09,857 - Translation result: T
+2024-11-21 20:07:09,857 - Translation result: T
+2024-11-21 20:07:09,857 - Translation result: T
+2024-11-21 20:07:09,857 - Translation result: T
+2024-11-21 20:07:09,857 - Translation result: T
+2024-11-21 20:07:09,857 - Translation result: T
+2024-11-21 20:07:09,857 - Translation result: T
+2024-11-21 20:07:09,857 - Translation result: T
+2024-11-21 20:07:09,857 - Translation result: T
+2024-11-21 20:07:09,857 - Translation result: T
+2024-11-21 20:07:09,857 - Translation result: T
+2024-11-21 20:07:09,857 - Translation result: T
+2024-11-21 20:07:09,857 - Translation result: T
+2024-11-21 20:07:09,857 - Translation result: T
+2024-11-21 20:07:09,857 - Translation result: T
+2024-11-21 20:07:09,857 - Translation result: T
+2024-11-21 20:07:09,857 - Translation result: T
+2024-11-21 20:07:09,857 - Translation result: T
+2024-11-21 20:07:09,857 - Translation result: T
+2024-11-21 20:07:09,857 - Translation result: T
+2024-11-21 20:07:09,857 - Translation result: T
+2024-11-21 20:07:09,857 - Translation result: T
+2024-11-21 20:07:09,857 - Translation result: T
+2024-11-21 20:07:09,857 - Translation result: T
+2024-11-21 20:07:09,857 - Translation result: T
+2024-11-21 20:07:09,857 - Translation result: T
+2024-11-21 20:07:09,857 - Translation result: T
+2024-11-21 20:07:09,857 - Translation result: T
+2024-11-21 20:07:09,857 - Translation result: T
+2024-11-21 20:07:09,857 - Translation result: T
+2024-11-21 20:07:09,857 - Translation result: T
+2024-11-21 20:07:09,857 - Translation result: T
+2024-11-21 20:07:09,857 - Translation result: T
+2024-11-21 20:07:09,857 - Translation result: T
+2024-11-21 20:07:09,857 - Translation result: T
+2024-11-21 20:07:09,857 - Translation result: T
+2024-11-21 20:07:09,857 - Translation result: T
+2024-11-21 20:07:09,857 - Translation result: T
+2024-11-21 20:07:09,857 - Translation result: T
+2024-11-21 20:07:09,857 - Translation result: T
+2024-11-21 20:08:01,495 - Translation result: METRO
+2024-11-21 20:08:01,495 - Translation result: METRO
+2024-11-21 20:08:01,495 - Translation result: METRO
+2024-11-21 20:08:01,495 - Translation result: METRO
+2024-11-21 20:08:01,495 - Translation result: METRO
+2024-11-21 20:08:01,495 - Translation result: METRO
+2024-11-21 20:08:01,495 - Translation result: METRO
+2024-11-21 20:08:01,495 - Translation result: METRO
+2024-11-21 20:08:01,495 - Translation result: METRO
+2024-11-21 20:08:01,495 - Translation result: METRO
+2024-11-21 20:08:01,495 - Translation result: METRO
+2024-11-21 20:08:01,495 - Translation result: METRO
+2024-11-21 20:08:01,495 - Translation result: METRO
+2024-11-21 20:08:01,495 - Translation result: METRO
+2024-11-21 20:08:01,495 - Translation result: METRO
+2024-11-21 20:08:01,495 - Translation result: METRO
+2024-11-21 20:08:01,495 - Translation result: METRO
+2024-11-21 20:08:01,495 - Translation result: METRO
+2024-11-21 20:08:01,495 - Translation result: METRO
+2024-11-21 20:08:01,495 - Translation result: METRO
+2024-11-21 20:08:01,495 - Translation result: METRO
+2024-11-21 20:08:01,495 - Translation result: METRO
+2024-11-21 20:08:01,495 - Translation result: METRO
+2024-11-21 20:08:01,495 - Translation result: METRO
+2024-11-21 20:08:01,495 - Translation result: METRO
+2024-11-21 20:08:01,495 - Translation result: METRO
+2024-11-21 20:08:01,495 - Translation result: METRO
+2024-11-21 20:08:01,495 - Translation result: METRO
+2024-11-21 20:08:01,495 - Translation result: METRO
+2024-11-21 20:08:01,495 - Translation result: METRO
+2024-11-21 20:08:01,495 - Translation result: METRO
+2024-11-21 20:08:01,495 - Translation result: METRO
+2024-11-21 20:08:01,495 - Translation result: METRO
+2024-11-21 20:08:01,495 - Translation result: METRO
+2024-11-21 20:08:01,495 - Translation result: METRO
+2024-11-21 20:08:01,495 - Translation result: METRO
+2024-11-21 20:08:01,495 - Translation result: METRO
+2024-11-21 20:08:01,495 - Translation result: METRO
+2024-11-21 20:08:01,495 - Translation result: METRO
+2024-11-21 20:08:01,495 - Translation result: METRO
+2024-11-21 20:08:01,495 - Translation result: METRO
+2024-11-21 20:08:01,495 - Translation result: METRO
+2024-11-21 20:08:01,495 - Translation result: METRO
+2024-11-21 20:08:01,495 - Translation result: METRO
+2024-11-21 20:08:01,495 - Translation result: METRO
+2024-11-21 20:08:01,495 - Translation result: METRO
+2024-11-21 20:08:03,064 - Translation result: METRO
+2024-11-21 20:08:03,064 - Translation result: METRO
+2024-11-21 20:08:03,064 - Translation result: METRO
+2024-11-21 20:08:03,064 - Translation result: METRO
+2024-11-21 20:08:03,064 - Translation result: METRO
+2024-11-21 20:08:03,064 - Translation result: METRO
+2024-11-21 20:08:03,064 - Translation result: METRO
+2024-11-21 20:08:03,064 - Translation result: METRO
+2024-11-21 20:08:03,064 - Translation result: METRO
+2024-11-21 20:08:03,064 - Translation result: METRO
+2024-11-21 20:08:03,064 - Translation result: METRO
+2024-11-21 20:08:03,064 - Translation result: METRO
+2024-11-21 20:08:03,064 - Translation result: METRO
+2024-11-21 20:08:03,064 - Translation result: METRO
+2024-11-21 20:08:03,064 - Translation result: METRO
+2024-11-21 20:08:03,064 - Translation result: METRO
+2024-11-21 20:08:03,064 - Translation result: METRO
+2024-11-21 20:08:03,064 - Translation result: METRO
+2024-11-21 20:08:03,064 - Translation result: METRO
+2024-11-21 20:08:03,064 - Translation result: METRO
+2024-11-21 20:08:03,064 - Translation result: METRO
+2024-11-21 20:08:03,064 - Translation result: METRO
+2024-11-21 20:08:03,064 - Translation result: METRO
+2024-11-21 20:08:03,064 - Translation result: METRO
+2024-11-21 20:08:03,064 - Translation result: METRO
+2024-11-21 20:08:03,064 - Translation result: METRO
+2024-11-21 20:08:03,064 - Translation result: METRO
+2024-11-21 20:08:03,064 - Translation result: METRO
+2024-11-21 20:08:03,064 - Translation result: METRO
+2024-11-21 20:08:03,064 - Translation result: METRO
+2024-11-21 20:08:03,064 - Translation result: METRO
+2024-11-21 20:08:03,064 - Translation result: METRO
+2024-11-21 20:08:03,064 - Translation result: METRO
+2024-11-21 20:08:03,064 - Translation result: METRO
+2024-11-21 20:08:03,064 - Translation result: METRO
+2024-11-21 20:08:03,064 - Translation result: METRO
+2024-11-21 20:08:03,064 - Translation result: METRO
+2024-11-21 20:08:03,064 - Translation result: METRO
+2024-11-21 20:08:03,064 - Translation result: METRO
+2024-11-21 20:08:03,064 - Translation result: METRO
+2024-11-21 20:08:03,064 - Translation result: METRO
+2024-11-21 20:08:03,064 - Translation result: METRO
+2024-11-21 20:08:03,064 - Translation result: METRO
+2024-11-21 20:08:03,064 - Translation result: METRO
+2024-11-21 20:08:03,064 - Translation result: METRO
+2024-11-21 20:08:03,064 - Translation result: METRO
+2024-11-21 20:08:03,064 - Translation result: METRO
+2024-11-21 20:08:03,383 - Translation result: S
+2024-11-21 20:08:03,383 - Translation result: S
+2024-11-21 20:08:03,383 - Translation result: S
+2024-11-21 20:08:03,383 - Translation result: S
+2024-11-21 20:08:03,383 - Translation result: S
+2024-11-21 20:08:03,383 - Translation result: S
+2024-11-21 20:08:03,383 - Translation result: S
+2024-11-21 20:08:03,383 - Translation result: S
+2024-11-21 20:08:03,383 - Translation result: S
+2024-11-21 20:08:03,383 - Translation result: S
+2024-11-21 20:08:03,383 - Translation result: S
+2024-11-21 20:08:03,383 - Translation result: S
+2024-11-21 20:08:03,383 - Translation result: S
+2024-11-21 20:08:03,383 - Translation result: S
+2024-11-21 20:08:03,383 - Translation result: S
+2024-11-21 20:08:03,383 - Translation result: S
+2024-11-21 20:08:03,383 - Translation result: S
+2024-11-21 20:08:03,383 - Translation result: S
+2024-11-21 20:08:03,383 - Translation result: S
+2024-11-21 20:08:03,383 - Translation result: S
+2024-11-21 20:08:03,383 - Translation result: S
+2024-11-21 20:08:03,383 - Translation result: S
+2024-11-21 20:08:03,383 - Translation result: S
+2024-11-21 20:08:03,383 - Translation result: S
+2024-11-21 20:08:03,383 - Translation result: S
+2024-11-21 20:08:03,383 - Translation result: S
+2024-11-21 20:08:03,383 - Translation result: S
+2024-11-21 20:08:03,383 - Translation result: S
+2024-11-21 20:08:03,383 - Translation result: S
+2024-11-21 20:08:03,383 - Translation result: S
+2024-11-21 20:08:03,383 - Translation result: S
+2024-11-21 20:08:03,383 - Translation result: S
+2024-11-21 20:08:03,383 - Translation result: S
+2024-11-21 20:08:03,383 - Translation result: S
+2024-11-21 20:08:03,383 - Translation result: S
+2024-11-21 20:08:03,383 - Translation result: S
+2024-11-21 20:08:03,383 - Translation result: S
+2024-11-21 20:08:03,383 - Translation result: S
+2024-11-21 20:08:03,383 - Translation result: S
+2024-11-21 20:08:03,383 - Translation result: S
+2024-11-21 20:08:03,383 - Translation result: S
+2024-11-21 20:08:03,383 - Translation result: S
+2024-11-21 20:08:03,383 - Translation result: S
+2024-11-21 20:08:03,383 - Translation result: S
+2024-11-21 20:08:03,383 - Translation result: S
+2024-11-21 20:08:03,383 - Translation result: S
+2024-11-21 20:08:03,383 - Translation result: S
+2024-11-21 20:08:03,383 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,625 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:03,887 - Translation result: S
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:07,914 - Translation result: METRO
+2024-11-21 20:08:36,533 - Translation result: No hay acción detectada
+2024-11-21 20:10:22,193 - Translation result: ILoveYou
+2024-11-21 20:10:22,720 - Translation result: ILoveYou
+2024-11-21 20:10:22,720 - Translation result: ILoveYou
+2024-11-21 20:10:24,350 - Translation result: R
+2024-11-21 20:10:24,350 - Translation result: R
+2024-11-21 20:10:24,350 - Translation result: R
+2024-11-21 20:10:25,304 - Translation result: R
+2024-11-21 20:10:25,304 - Translation result: R
+2024-11-21 20:10:25,304 - Translation result: R
+2024-11-21 20:10:25,304 - Translation result: R
+2024-11-21 20:10:25,979 - Translation result: R
+2024-11-21 20:10:25,979 - Translation result: R
+2024-11-21 20:10:25,979 - Translation result: R
+2024-11-21 20:10:25,979 - Translation result: R
+2024-11-21 20:10:25,979 - Translation result: R
+2024-11-21 20:10:26,788 - Translation result: R
+2024-11-21 20:10:26,788 - Translation result: R
+2024-11-21 20:10:26,788 - Translation result: R
+2024-11-21 20:10:26,788 - Translation result: R
+2024-11-21 20:10:26,788 - Translation result: R
+2024-11-21 20:10:26,788 - Translation result: R
+2024-11-21 20:10:27,633 - Translation result: R
+2024-11-21 20:10:27,633 - Translation result: R
+2024-11-21 20:10:27,633 - Translation result: R
+2024-11-21 20:10:27,633 - Translation result: R
+2024-11-21 20:10:27,633 - Translation result: R
+2024-11-21 20:10:27,633 - Translation result: R
+2024-11-21 20:10:27,633 - Translation result: R
+2024-11-21 20:10:28,734 - Translation result: R
+2024-11-21 20:10:28,734 - Translation result: R
+2024-11-21 20:10:28,734 - Translation result: R
+2024-11-21 20:10:28,734 - Translation result: R
+2024-11-21 20:10:28,734 - Translation result: R
+2024-11-21 20:10:28,734 - Translation result: R
+2024-11-21 20:10:28,734 - Translation result: R
+2024-11-21 20:10:28,734 - Translation result: R
+2024-11-21 20:10:31,980 - Translation result: R
+2024-11-21 20:10:31,980 - Translation result: R
+2024-11-21 20:10:31,980 - Translation result: R
+2024-11-21 20:10:31,980 - Translation result: R
+2024-11-21 20:10:31,980 - Translation result: R
+2024-11-21 20:10:31,980 - Translation result: R
+2024-11-21 20:10:31,980 - Translation result: R
+2024-11-21 20:10:31,980 - Translation result: R
+2024-11-21 20:10:31,980 - Translation result: R
+2024-11-21 20:10:34,537 - Translation result: R
+2024-11-21 20:10:34,537 - Translation result: R
+2024-11-21 20:10:34,537 - Translation result: R
+2024-11-21 20:10:34,537 - Translation result: R
+2024-11-21 20:10:34,537 - Translation result: R
+2024-11-21 20:10:34,537 - Translation result: R
+2024-11-21 20:10:34,537 - Translation result: R
+2024-11-21 20:10:34,537 - Translation result: R
+2024-11-21 20:10:34,537 - Translation result: R
+2024-11-21 20:10:34,537 - Translation result: R
+2024-11-21 20:10:35,396 - Translation result: Yes
+2024-11-21 20:10:35,396 - Translation result: Yes
+2024-11-21 20:10:35,396 - Translation result: Yes
+2024-11-21 20:10:35,396 - Translation result: Yes
+2024-11-21 20:10:35,396 - Translation result: Yes
+2024-11-21 20:10:35,396 - Translation result: Yes
+2024-11-21 20:10:35,396 - Translation result: Yes
+2024-11-21 20:10:35,396 - Translation result: Yes
+2024-11-21 20:10:35,396 - Translation result: Yes
+2024-11-21 20:10:35,396 - Translation result: Yes
+2024-11-21 20:10:35,396 - Translation result: Yes
+2024-11-21 20:10:36,657 - Translation result: R
+2024-11-21 20:10:36,657 - Translation result: R
+2024-11-21 20:10:36,657 - Translation result: R
+2024-11-21 20:10:36,657 - Translation result: R
+2024-11-21 20:10:36,657 - Translation result: R
+2024-11-21 20:10:36,657 - Translation result: R
+2024-11-21 20:10:36,657 - Translation result: R
+2024-11-21 20:10:36,657 - Translation result: R
+2024-11-21 20:10:36,657 - Translation result: R
+2024-11-21 20:10:36,657 - Translation result: R
+2024-11-21 20:10:36,657 - Translation result: R
+2024-11-21 20:10:36,657 - Translation result: R
+2024-11-21 20:10:37,459 - Translation result: R
+2024-11-21 20:10:37,459 - Translation result: R
+2024-11-21 20:10:37,459 - Translation result: R
+2024-11-21 20:10:37,459 - Translation result: R
+2024-11-21 20:10:37,459 - Translation result: R
+2024-11-21 20:10:37,459 - Translation result: R
+2024-11-21 20:10:37,459 - Translation result: R
+2024-11-21 20:10:37,459 - Translation result: R
+2024-11-21 20:10:37,459 - Translation result: R
+2024-11-21 20:10:37,459 - Translation result: R
+2024-11-21 20:10:37,459 - Translation result: R
+2024-11-21 20:10:37,459 - Translation result: R
+2024-11-21 20:10:37,459 - Translation result: R
+2024-11-21 20:10:42,784 - Translation result: Yes
+2024-11-21 20:10:42,784 - Translation result: Yes
+2024-11-21 20:10:42,784 - Translation result: Yes
+2024-11-21 20:10:42,784 - Translation result: Yes
+2024-11-21 20:10:42,784 - Translation result: Yes
+2024-11-21 20:10:42,784 - Translation result: Yes
+2024-11-21 20:10:42,784 - Translation result: Yes
+2024-11-21 20:10:42,784 - Translation result: Yes
+2024-11-21 20:10:42,784 - Translation result: Yes
+2024-11-21 20:10:42,784 - Translation result: Yes
+2024-11-21 20:10:42,784 - Translation result: Yes
+2024-11-21 20:10:42,784 - Translation result: Yes
+2024-11-21 20:10:42,784 - Translation result: Yes
+2024-11-21 20:10:42,784 - Translation result: Yes
+2024-11-21 20:10:43,003 - Translation result: Yes
+2024-11-21 20:10:43,003 - Translation result: Yes
+2024-11-21 20:10:43,003 - Translation result: Yes
+2024-11-21 20:10:43,003 - Translation result: Yes
+2024-11-21 20:10:43,003 - Translation result: Yes
+2024-11-21 20:10:43,003 - Translation result: Yes
+2024-11-21 20:10:43,003 - Translation result: Yes
+2024-11-21 20:10:43,003 - Translation result: Yes
+2024-11-21 20:10:43,003 - Translation result: Yes
+2024-11-21 20:10:43,003 - Translation result: Yes
+2024-11-21 20:10:43,003 - Translation result: Yes
+2024-11-21 20:10:43,003 - Translation result: Yes
+2024-11-21 20:10:43,003 - Translation result: Yes
+2024-11-21 20:10:43,003 - Translation result: Yes
+2024-11-21 20:10:43,003 - Translation result: Yes
+2024-11-21 20:10:43,980 - Translation result: Yes
+2024-11-21 20:10:43,980 - Translation result: Yes
+2024-11-21 20:10:43,980 - Translation result: Yes
+2024-11-21 20:10:43,980 - Translation result: Yes
+2024-11-21 20:10:43,980 - Translation result: Yes
+2024-11-21 20:10:43,980 - Translation result: Yes
+2024-11-21 20:10:43,980 - Translation result: Yes
+2024-11-21 20:10:43,980 - Translation result: Yes
+2024-11-21 20:10:43,980 - Translation result: Yes
+2024-11-21 20:10:43,980 - Translation result: Yes
+2024-11-21 20:10:43,980 - Translation result: Yes
+2024-11-21 20:10:43,980 - Translation result: Yes
+2024-11-21 20:10:43,980 - Translation result: Yes
+2024-11-21 20:10:43,980 - Translation result: Yes
+2024-11-21 20:10:43,980 - Translation result: Yes
+2024-11-21 20:10:43,980 - Translation result: Yes
+2024-11-21 20:10:47,321 - Translation result: Te amo
+2024-11-21 20:10:47,321 - Translation result: Te amo
+2024-11-21 20:10:47,321 - Translation result: Te amo
+2024-11-21 20:10:47,321 - Translation result: Te amo
+2024-11-21 20:10:47,321 - Translation result: Te amo
+2024-11-21 20:10:47,321 - Translation result: Te amo
+2024-11-21 20:10:47,321 - Translation result: Te amo
+2024-11-21 20:10:47,321 - Translation result: Te amo
+2024-11-21 20:10:47,321 - Translation result: Te amo
+2024-11-21 20:10:47,321 - Translation result: Te amo
+2024-11-21 20:10:47,321 - Translation result: Te amo
+2024-11-21 20:10:47,321 - Translation result: Te amo
+2024-11-21 20:10:47,321 - Translation result: Te amo
+2024-11-21 20:10:47,321 - Translation result: Te amo
+2024-11-21 20:10:47,321 - Translation result: Te amo
+2024-11-21 20:10:47,321 - Translation result: Te amo
+2024-11-21 20:10:47,321 - Translation result: Te amo
+2024-11-21 20:10:48,891 - Translation result: Riñonal
+2024-11-21 20:10:48,891 - Translation result: Riñonal
+2024-11-21 20:10:48,891 - Translation result: Riñonal
+2024-11-21 20:10:48,891 - Translation result: Riñonal
+2024-11-21 20:10:48,891 - Translation result: Riñonal
+2024-11-21 20:10:48,891 - Translation result: Riñonal
+2024-11-21 20:10:48,891 - Translation result: Riñonal
+2024-11-21 20:10:48,891 - Translation result: Riñonal
+2024-11-21 20:10:48,891 - Translation result: Riñonal
+2024-11-21 20:10:48,891 - Translation result: Riñonal
+2024-11-21 20:10:48,891 - Translation result: Riñonal
+2024-11-21 20:10:48,891 - Translation result: Riñonal
+2024-11-21 20:10:48,891 - Translation result: Riñonal
+2024-11-21 20:10:48,891 - Translation result: Riñonal
+2024-11-21 20:10:48,891 - Translation result: Riñonal
+2024-11-21 20:10:48,891 - Translation result: Riñonal
+2024-11-21 20:10:48,891 - Translation result: Riñonal
+2024-11-21 20:10:48,891 - Translation result: Riñonal
+2024-11-21 20:10:49,463 - Translation result: Te amo
+2024-11-21 20:10:49,463 - Translation result: Te amo
+2024-11-21 20:10:49,463 - Translation result: Te amo
+2024-11-21 20:10:49,463 - Translation result: Te amo
+2024-11-21 20:10:49,463 - Translation result: Te amo
+2024-11-21 20:10:49,463 - Translation result: Te amo
+2024-11-21 20:10:49,463 - Translation result: Te amo
+2024-11-21 20:10:49,463 - Translation result: Te amo
+2024-11-21 20:10:49,463 - Translation result: Te amo
+2024-11-21 20:10:49,463 - Translation result: Te amo
+2024-11-21 20:10:49,463 - Translation result: Te amo
+2024-11-21 20:10:49,463 - Translation result: Te amo
+2024-11-21 20:10:49,463 - Translation result: Te amo
+2024-11-21 20:10:49,463 - Translation result: Te amo
+2024-11-21 20:10:49,463 - Translation result: Te amo
+2024-11-21 20:10:49,463 - Translation result: Te amo
+2024-11-21 20:10:49,463 - Translation result: Te amo
+2024-11-21 20:10:49,463 - Translation result: Te amo
+2024-11-21 20:10:49,463 - Translation result: Te amo
+2024-11-21 20:10:50,606 - Translation result: Te amo
+2024-11-21 20:10:50,606 - Translation result: Te amo
+2024-11-21 20:10:50,606 - Translation result: Te amo
+2024-11-21 20:10:50,606 - Translation result: Te amo
+2024-11-21 20:10:50,606 - Translation result: Te amo
+2024-11-21 20:10:50,606 - Translation result: Te amo
+2024-11-21 20:10:50,606 - Translation result: Te amo
+2024-11-21 20:10:50,606 - Translation result: Te amo
+2024-11-21 20:10:50,606 - Translation result: Te amo
+2024-11-21 20:10:50,606 - Translation result: Te amo
+2024-11-21 20:10:50,606 - Translation result: Te amo
+2024-11-21 20:10:50,606 - Translation result: Te amo
+2024-11-21 20:10:50,606 - Translation result: Te amo
+2024-11-21 20:10:50,606 - Translation result: Te amo
+2024-11-21 20:10:50,606 - Translation result: Te amo
+2024-11-21 20:10:50,606 - Translation result: Te amo
+2024-11-21 20:10:50,606 - Translation result: Te amo
+2024-11-21 20:10:50,606 - Translation result: Te amo
+2024-11-21 20:10:50,606 - Translation result: Te amo
+2024-11-21 20:10:50,606 - Translation result: Te amo
+2024-11-21 20:10:51,078 - Translation result: Te amo
+2024-11-21 20:10:51,078 - Translation result: Te amo
+2024-11-21 20:10:51,078 - Translation result: Te amo
+2024-11-21 20:10:51,078 - Translation result: Te amo
+2024-11-21 20:10:51,078 - Translation result: Te amo
+2024-11-21 20:10:51,078 - Translation result: Te amo
+2024-11-21 20:10:51,078 - Translation result: Te amo
+2024-11-21 20:10:51,078 - Translation result: Te amo
+2024-11-21 20:10:51,078 - Translation result: Te amo
+2024-11-21 20:10:51,078 - Translation result: Te amo
+2024-11-21 20:10:51,078 - Translation result: Te amo
+2024-11-21 20:10:51,078 - Translation result: Te amo
+2024-11-21 20:10:51,078 - Translation result: Te amo
+2024-11-21 20:10:51,078 - Translation result: Te amo
+2024-11-21 20:10:51,078 - Translation result: Te amo
+2024-11-21 20:10:51,078 - Translation result: Te amo
+2024-11-21 20:10:51,078 - Translation result: Te amo
+2024-11-21 20:10:51,078 - Translation result: Te amo
+2024-11-21 20:10:51,078 - Translation result: Te amo
+2024-11-21 20:10:51,078 - Translation result: Te amo
+2024-11-21 20:10:51,078 - Translation result: Te amo
+2024-11-21 20:10:57,584 - Translation result: Hola
+2024-11-21 20:10:57,584 - Translation result: Hola
+2024-11-21 20:10:57,584 - Translation result: Hola
+2024-11-21 20:10:57,584 - Translation result: Hola
+2024-11-21 20:10:57,584 - Translation result: Hola
+2024-11-21 20:10:57,584 - Translation result: Hola
+2024-11-21 20:10:57,584 - Translation result: Hola
+2024-11-21 20:10:57,584 - Translation result: Hola
+2024-11-21 20:10:57,584 - Translation result: Hola
+2024-11-21 20:10:57,584 - Translation result: Hola
+2024-11-21 20:10:57,584 - Translation result: Hola
+2024-11-21 20:10:57,584 - Translation result: Hola
+2024-11-21 20:10:57,584 - Translation result: Hola
+2024-11-21 20:10:57,584 - Translation result: Hola
+2024-11-21 20:10:57,584 - Translation result: Hola
+2024-11-21 20:10:57,584 - Translation result: Hola
+2024-11-21 20:10:57,584 - Translation result: Hola
+2024-11-21 20:10:57,584 - Translation result: Hola
+2024-11-21 20:10:57,584 - Translation result: Hola
+2024-11-21 20:10:57,584 - Translation result: Hola
+2024-11-21 20:10:57,584 - Translation result: Hola
+2024-11-21 20:10:57,584 - Translation result: Hola
+2024-11-21 20:10:58,889 - Translation result: Hola
+2024-11-21 20:10:58,889 - Translation result: Hola
+2024-11-21 20:10:58,889 - Translation result: Hola
+2024-11-21 20:10:58,889 - Translation result: Hola
+2024-11-21 20:10:58,889 - Translation result: Hola
+2024-11-21 20:10:58,889 - Translation result: Hola
+2024-11-21 20:10:58,889 - Translation result: Hola
+2024-11-21 20:10:58,889 - Translation result: Hola
+2024-11-21 20:10:58,889 - Translation result: Hola
+2024-11-21 20:10:58,889 - Translation result: Hola
+2024-11-21 20:10:58,889 - Translation result: Hola
+2024-11-21 20:10:58,889 - Translation result: Hola
+2024-11-21 20:10:58,889 - Translation result: Hola
+2024-11-21 20:10:58,889 - Translation result: Hola
+2024-11-21 20:10:58,889 - Translation result: Hola
+2024-11-21 20:10:58,889 - Translation result: Hola
+2024-11-21 20:10:58,889 - Translation result: Hola
+2024-11-21 20:10:58,889 - Translation result: Hola
+2024-11-21 20:10:58,889 - Translation result: Hola
+2024-11-21 20:10:58,889 - Translation result: Hola
+2024-11-21 20:10:58,889 - Translation result: Hola
+2024-11-21 20:10:58,889 - Translation result: Hola
+2024-11-21 20:10:58,889 - Translation result: Hola
+2024-11-27 14:21:43,514 - Translation result: S
+2024-11-27 14:21:47,299 - Translation result: ILoveYou
+2024-11-27 14:21:47,299 - Translation result: ILoveYou
+2024-12-03 12:49:06,719 - Translation result: T
+2024-12-03 12:52:21,483 - Translation result: ThankYou
+2024-12-05 11:21:07,501 - Translation result: Hello
+2024-12-05 11:29:00,151 - Translation result: No action detected
+2024-12-05 11:29:14,433 - Translation result: Yes
+2024-12-05 11:29:14,433 - Translation result: Yes
+2024-12-05 11:29:17,161 - Translation result: No
+2024-12-05 11:29:17,161 - Translation result: No
+2024-12-05 11:29:17,161 - Translation result: No
+2024-12-05 11:30:37,758 - Translation result: No
+2024-12-05 11:35:33,475 - Translation result: R
+2024-12-05 11:38:54,086 - Translation result: ThankYou
+2024-12-05 11:38:57,237 - Translation result: METRO
+2024-12-05 11:38:57,237 - Translation result: METRO
+2024-12-05 11:38:57,830 - Translation result: METRO
+2024-12-05 11:38:57,830 - Translation result: METRO
+2024-12-05 11:38:57,830 - Translation result: METRO
+2024-12-05 11:38:57,953 - Translation result: METRO
+2024-12-05 11:38:57,953 - Translation result: METRO
+2024-12-05 11:38:57,953 - Translation result: METRO
+2024-12-05 11:38:57,953 - Translation result: METRO
+2024-12-05 11:38:59,476 - Translation result: Hola
+2024-12-05 11:38:59,476 - Translation result: Hola
+2024-12-05 11:38:59,476 - Translation result: Hola
+2024-12-05 11:38:59,476 - Translation result: Hola
+2024-12-05 11:38:59,476 - Translation result: Hola
+2024-12-05 11:39:04,355 - Translation result: Oui
+2024-12-05 11:39:04,355 - Translation result: Oui
+2024-12-05 11:39:04,355 - Translation result: Oui
+2024-12-05 11:39:04,355 - Translation result: Oui
+2024-12-05 11:39:04,355 - Translation result: Oui
+2024-12-05 11:39:04,355 - Translation result: Oui
+2024-12-05 11:39:06,643 - Translation result: M
+2024-12-05 11:39:06,643 - Translation result: M
+2024-12-05 11:39:06,643 - Translation result: M
+2024-12-05 11:39:06,643 - Translation result: M
+2024-12-05 11:39:06,643 - Translation result: M
+2024-12-05 11:39:06,643 - Translation result: M
+2024-12-05 11:39:06,643 - Translation result: M
+2024-12-05 11:46:11,917 - Translation result: Iloveyou
+2024-12-05 11:46:11,917 - Translation result: Iloveyou
+2024-12-05 11:46:11,917 - Translation result: Iloveyou
+2024-12-05 11:46:11,917 - Translation result: Iloveyou
+2024-12-05 11:46:12,266 - Translation result: Iloveyou
+2024-12-05 11:46:12,266 - Translation result: Iloveyou
+2024-12-05 11:46:12,266 - Translation result: Iloveyou
+2024-12-05 11:46:12,266 - Translation result: Iloveyou
+2024-12-05 11:46:12,266 - Translation result: Iloveyou
+2024-12-05 11:46:17,158 - Translation result: M
+2024-12-05 11:46:17,158 - Translation result: M
+2024-12-05 11:46:17,158 - Translation result: M
+2024-12-05 11:46:17,158 - Translation result: M
+2024-12-05 11:46:17,158 - Translation result: M
+2024-12-05 11:46:17,158 - Translation result: M
+2024-12-05 11:46:20,183 - Translation result: M
+2024-12-05 11:46:20,183 - Translation result: M
+2024-12-05 11:46:20,183 - Translation result: M
+2024-12-05 11:46:20,183 - Translation result: M
+2024-12-05 11:46:20,183 - Translation result: M
+2024-12-05 11:46:20,183 - Translation result: M
+2024-12-05 11:46:20,183 - Translation result: M
+2024-12-05 11:46:48,578 - Translation result: T
+2024-12-05 11:46:48,578 - Translation result: T
+2024-12-05 11:46:48,578 - Translation result: T
+2024-12-05 11:46:48,578 - Translation result: T
+2024-12-05 11:46:48,578 - Translation result: T
+2024-12-05 11:46:48,578 - Translation result: T
+2024-12-05 11:46:48,578 - Translation result: T
+2024-12-05 11:46:48,578 - Translation result: T
+2024-12-05 11:46:48,578 - Translation result: T
+2024-12-05 11:46:48,578 - Translation result: T
+2024-12-05 11:46:48,578 - Translation result: T
+2024-12-05 11:46:48,578 - Translation result: T
+2024-12-05 11:46:48,578 - Translation result: T
+2024-12-05 11:46:48,578 - Translation result: T
+2024-12-05 11:46:48,578 - Translation result: T
+2024-12-05 11:46:54,108 - Translation result: T
+2024-12-05 11:46:54,108 - Translation result: T
+2024-12-05 11:46:54,108 - Translation result: T
+2024-12-05 11:46:54,108 - Translation result: T
+2024-12-05 11:46:54,108 - Translation result: T
+2024-12-05 11:46:54,108 - Translation result: T
+2024-12-05 11:46:54,108 - Translation result: T
+2024-12-05 11:46:54,108 - Translation result: T
+2024-12-05 11:46:54,108 - Translation result: T
+2024-12-05 11:46:54,108 - Translation result: T
+2024-12-05 11:46:54,108 - Translation result: T
+2024-12-05 11:46:54,108 - Translation result: T
+2024-12-05 11:46:54,108 - Translation result: T
+2024-12-05 11:46:54,108 - Translation result: T
+2024-12-05 11:46:54,108 - Translation result: T
+2024-12-05 11:46:54,108 - Translation result: T
+2024-12-05 11:46:54,108 - Translation result: T
+2024-12-05 11:46:54,108 - Translation result: T
