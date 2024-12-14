@@ -24,7 +24,7 @@
 - **Solution**: Converts translated text into speech using Google Text-to-Speech (gTTS) for enhanced accessibility.
 
 ## Project Structure
-
+```plaintext
 Be-Heard/
 ├── app.py            # Main application backend (Flask)
 ├── requirements.txt  # Python dependencies
@@ -32,6 +32,8 @@ Be-Heard/
 ├── templates/        # HTML templates for the web interface
 ├── logs/             # Logs for monitoring performance and actions
 ├── model/            # Pre-trained model (action_V2_20.keras)
+
+
 # Be Heard: AI-Driven Sign Language Translation System
 
 ## Project Overview
