@@ -31,7 +31,7 @@ Be-Heard/
 ├── README.md         # Project documentation
 ├── templates/        # HTML templates for the web interface
 ├── logs/             # Logs for monitoring performance and actions
-├── model/            # Pre-trained model (action_V2_20.keras)
+├── model/            # Pre-trained model action_V2_20.keras for Sign Language detection
 ```
 
 
