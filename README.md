@@ -1,6 +1,40 @@
 # Be Heard: AI-Driven Sign Language Translation System
 
 ## Project Overview
+**Be Heard** is an innovative AI-powered application designed to bridge communication gaps by converting sign language gestures into text and audio. The system supports multilingual translation to enhance accessibility for users globally. It focuses on real-time recognition of American Sign Language (ASL) gestures, with an intuitive interface and comprehensive functionality.
+
+### Key Features:
+- **Real-time Sign Language to English Text Conversion**
+- **English Text Translation into Multiple Languages**
+- **Text-to-Audio Conversion**
+- **User-Friendly Web Interface**
+
+## Use Cases
+
+### 1. Sign Language to English Text Conversion
+- **Problem**: Sign language users face communication barriers with non-sign language speakers.
+- **Solution**: Converts ASL gestures into English text for real-time communication.
+
+### 2. English Text Translation
+- **Problem**: Multilingual communication barriers among users.
+- **Solution**: Translates English text into various languages such as French, Spanish, and Chinese, using Google Translate API.
+
+### 3. Text-to-Audio Conversion
+- **Problem**: Text-based communication may not suffice in some scenarios, e.g., for visually impaired users.
+- **Solution**: Converts translated text into speech using Google Text-to-Speech (gTTS) for enhanced accessibility.
+
+## Project Structure
+
+Be-Heard/
+├── app.py            # Main application backend (Flask)
+├── requirements.txt  # Python dependencies
+├── README.md         # Project documentation
+├── templates/        # HTML templates for the web interface
+├── logs/             # Logs for monitoring performance and actions
+├── model/            # Pre-trained model (action_V2_20.keras)
+# Be Heard: AI-Driven Sign Language Translation System
+
+## Project Overview
 **Be Heard** is an AI-powered system that bridges the communication gap for users who rely on sign language by converting visual gestures into text and audio. It allows seamless interaction between sign language users and non-sign language speakers, offering multi-language support for global accessibility.
 
 We are mainly focusing on using American Sign Language (ASL) for this project.
@@ -33,6 +67,8 @@ Be-Heard/
 ├── README.md         # Project documentation
 ├── templates/        # HTML templates for the web interface
 ├── logs/             # Logs for monitoring application performance
+├── model/            # pre-trained model file action_V2_20.keras in the project directory under the model folder
+
 
 ### Features
 
