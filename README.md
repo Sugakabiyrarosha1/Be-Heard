@@ -24,16 +24,26 @@ This project implements advanced machine learning models and AI technologies to:
 - **Problem**: In some contexts, text-based communication is not ideal, especially for the visually impaired or in social scenarios that prefer verbal interaction.
 - **Solution**: This feature converts the translated text into speech, allowing the system to communicate via audio output for enhanced accessibility.
 
+
 ## Project Structure
 
-The project is organized into branches for each use case, with relevant code and data stored in specific folders:
+Be-Heard/
+├── app.py            # Main application file
+├── requirements.txt  # Python dependencies
+├── README.md         # Project documentation
+├── templates/        # HTML templates for the web interface
+├── logs/             # Logs for monitoring application performance
 
-- **main branch**: Contains core project files and documentation.
-  3 files are named on the basis of usecases and each file contains code for the respective usecases.
+### Features
 
-- **Sign-Language-Detection branch**: Code for Sign Language to English Text conversion.
-- **MultiLingual-Translation branch**: Code for English Text to Multilingual Translation.
-- **Audio-Output branch**: Code for Text to Audio Conversion.
+Real-time sign language detection using machine learning models.
+
+User-friendly web interface for ease of access.
+
+Logging system for monitoring and debugging.
+
+Easy setup and deployment with requirements.txt.
+
 
 ## Setup Instructions
 
@@ -63,9 +73,7 @@ Expected Output: The audio will play the translated text aloud.
 
 
 
-### 3. Output Examples
-You can also include expected output examples for each use case. This can help users understand what to expect. For example:
-
+For example:
 
 ### Output Examples
 
